@@ -1,0 +1,735 @@
+,title,sub_title,brand,color_breif,fullPrice,currentPrice,country,availability,publish_date,created_date,discount_amount,asof_date
+0,Nike Go FlyEase,Easy On/Off Shoes,Nike Sportswear,Black/White,114.95,114.95,GB,True,2022-09-13T08:44:00.000Z,2023-04-13T15:10:39.580Z,0.0,2023-04-16
+1,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,White/White,109.95,109.95,GB,True,2020-07-20T22:00:00.000Z,2023-04-06T05:41:20.507Z,0.0,2023-04-16
+2,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,White/White/Wolf Grey,109.95,109.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-15T07:31:47.750Z,0.0,2023-04-16
+3,Nike Dunk Low,Men's Shoes,Nike Sportswear,Midnight Navy/Summit White/White/Light Smoke Grey,109.95,109.95,GB,True,2023-01-30T15:26:00.000Z,2023-04-06T06:56:18.880Z,0.0,2023-04-16
+4,Nike Air Max Plus,Men's Shoes,Nike Sportswear,Black/Black/Black,169.95,169.95,GB,True,2012-06-30T22:00:00.000Z,2023-04-11T21:39:18.716Z,0.0,2023-04-16
+5,Nike Air Max Alpha Trainer 5,Men's Training Shoes,Nike,Black/Black/White,72.95,51.47,GB,True,2022-06-29T12:48:00.000Z,2023-04-15T08:05:45.473Z,21.480000000000004,2023-04-16
+6,Nike Air Max Excee,Men's Shoe,Nike Sportswear,Black/Dark Grey/Black,109.95,54.97,GB,True,2022-11-01T08:00:00.000Z,2023-04-13T18:24:45.316Z,54.980000000000004,2023-04-16
+7,Nike Air Force 1 '07,Men's shoes,Nike Sportswear,White/Picante Red/Wolf Grey,114.95,114.95,GB,True,2023-01-03T08:00:00.000Z,2023-04-13T11:22:19.952Z,0.0,2023-04-16
+8,Nike Dunk Low By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour,114.95,114.95,GB,True,2022-03-01T17:00:00.000Z,2023-04-12T22:38:03.863Z,0.0,2023-04-16
+9,Nike Dunk Low By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour,114.95,114.95,GB,True,2022-03-01T17:00:00.000Z,2023-04-12T22:38:04.012Z,0.0,2023-04-16
+10,Nike Air Force 1 '07,Men's Shoe,Nike Sportswear,White/Black,109.95,109.95,GB,True,2022-10-19T12:44:00.000Z,2023-04-15T07:58:30.327Z,0.0,2023-04-16
+11,Nike Dunk Low Retro SE,Men's Shoes,Nike Sportswear,Light Orewood Brown/Light Orewood Brown/University Red/Pale Ivory,109.95,109.95,GB,False,2023-01-23T00:00:00.000Z,2023-04-06T06:29:31.793Z,0.0,2023-04-16
+12,Nike Waffle One,Men's Shoes,Nike Sportswear,Black/White/Orange/Black,89.95,44.97,GB,True,2021-05-20T07:00:00.000Z,2023-04-14T07:38:35.227Z,44.980000000000004,2023-04-16
+13,Nike Air Max Plus 3,Men's Shoes,Nike Sportswear,Black/Smoke Grey/White,179.95,125.97,GB,True,2022-12-26T08:00:00.000Z,2023-04-06T06:53:57.609Z,53.97999999999999,2023-04-16
+14,Nike Air Max Plus Utility,Men's Shoes,Nike Sportswear,Wolf Grey/Cool Grey/Varsity Maize/Black,179.95,179.95,GB,True,2023-02-16T08:00:00.000Z,2023-04-06T06:54:17.708Z,0.0,2023-04-16
+15,Nike Dunk Low Retro,Men's Shoes,Nike Sportswear,White/White/Pure Platinum,99.95,99.95,GB,True,2023-01-30T15:25:00.000Z,2023-04-10T18:46:14.832Z,0.0,2023-04-16
+16,Nike Air Max TW Next Nature,Men's Shoes,Nike Sportswear,Black/Iron Grey/White/Baltic Blue,144.95,86.97,GB,True,2023-02-02T08:00:00.000Z,2023-04-12T14:42:08.635Z,57.97999999999999,2023-04-16
+17,Nike Air Max Terrascape Plus,Men's Shoes,Nike Sportswear,Black/Anthracite/Black/Anthracite,179.95,179.95,GB,True,2022-12-26T08:00:00.000Z,2023-04-13T14:50:08.964Z,0.0,2023-04-16
+18,Nike Dunk High Retro,Men's Shoe,Nike Sportswear,Blue Chill/White/Amarillo/Blue Chill,109.95,109.95,GB,True,2022-12-08T14:12:00.000Z,2023-04-07T09:24:45.888Z,0.0,2023-04-16
+19,Air Jordan 1 Low,Men's Shoes,Jordan,True Blue/White/Cement Grey,109.95,109.95,GB,True,2023-01-17T08:00:00.000Z,2023-04-16T12:43:08.378Z,0.0,2023-04-16
+20,Air Jordan 1 Low SE,Men's Shoes,Jordan,White/Black,114.95,114.95,GB,False,2023-02-20T15:00:00.000Z,2023-04-09T15:23:10.842Z,0.0,2023-04-16
+21,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,Black/Wolf Grey/Metallic Silver,114.95,114.95,GB,True,2023-01-05T08:00:00.000Z,2023-04-15T22:16:55.383Z,0.0,2023-04-16
+22,Air Jordan 1 Mid,Shoes,Jordan,White/Obsidian/Metallic Gold,114.95,114.95,GB,True,2023-01-16T00:00:00.000Z,2023-04-15T18:27:59.557Z,0.0,2023-04-16
+23,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,Light Smoke Grey/Summit White/White/Midnight Navy,114.95,114.95,GB,True,2023-01-31T08:00:00.000Z,2023-04-06T06:56:18.563Z,0.0,2023-04-16
+24,Nike Zoom Rival,Athletics Sprinting Spikes,Nike,Black/Light Smoke Grey/Dark Smoke Grey/Metallic Silver,69.95,69.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-08T11:23:42.243Z,0.0,2023-04-16
+25,Nike Zoom Mercurial Vapor 15 Academy TF,Turf Football Shoes,Nike,Black/Summit White/Volt/Dark Smoke Grey,74.95,74.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T12:11:34.913Z,0.0,2023-04-16
+26,NikeCourt Legacy,Men's Shoes,Nike Sportswear,Black/White,69.95,41.97,GB,True,2022-03-28T09:30:00.000Z,2023-04-07T15:15:24.339Z,27.980000000000004,2023-04-16
+27,Nike Air Max 95 By You,Custom Men's Shoe,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,179.95,179.95,GB,True,2022-06-07T16:00:00.000Z,2023-04-06T06:04:52.994Z,0.0,2023-04-16
+28,Nike Zoom Mercurial Superfly 9 Pro FG,Firm-Ground Football Boot,Nike,Yellow Strike/Doll/Coconut Milk/Sunset Glow,144.95,72.47,GB,False,2022-09-01T12:20:00.000Z,2023-04-06T06:00:42.751Z,72.47999999999999,2023-04-16
+29,Nike Wearallday,Men's Shoe,Nike Sportswear,White/Black,69.95,69.95,GB,True,2021-12-14T14:34:00.000Z,2023-04-13T15:10:16.295Z,0.0,2023-04-16
+30,Nike Air Penny 2,Men's Shoes,Nike Sportswear,Black/White/Football Grey/Multi-Colour,169.95,169.95,GB,True,2023-02-09T10:44:00.000Z,2023-04-12T14:42:57.681Z,0.0,2023-04-16
+31,Nike Gripknit Phantom GX Elite FG By You,Custom Firm-Ground Football Boot,NIKEiD,Volt/Volt,259.95,259.95,GB,True,2023-01-17T17:00:00.000Z,2023-04-06T06:44:38.969Z,0.0,2023-04-16
+32,Nike Air Presto,Men's Shoes,Nike Sportswear,Black/White/Black,119.95,119.95,GB,True,2021-02-15T08:00:00.000Z,2023-04-13T14:43:07.715Z,0.0,2023-04-16
+33,Air Jordan 1 Low FlyEase,Men's Easy On/Off Shoes,Jordan,Black/White/Gym Red,134.95,134.95,GB,True,2023-03-30T10:33:00.000Z,2023-04-06T07:10:11.063Z,0.0,2023-04-16
+34,Nike Air Max 97 By You,Custom Men's Shoe,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,189.95,189.95,GB,True,2021-05-03T16:00:00.000Z,2023-04-06T06:08:46.418Z,0.0,2023-04-16
+35,NikeCourt Air Zoom Lite 3,Men's Tennis Shoes,Nike,Mineral Teal/Gridiron/Sail,59.95,59.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-06T06:32:22.186Z,0.0,2023-04-16
+36,Nike Vomero 16,Men's Road Running Shoes,Nike,Black/Ashen Slate/White/Football Grey,144.95,144.95,GB,True,2023-01-05T08:00:00.000Z,2023-04-15T07:58:31.635Z,0.0,2023-04-16
+37,Nike Air More Uptempo '96,Men's Shoes,Nike Sportswear,White/Pure Platinum/Racer Blue,169.95,118.97,GB,True,2023-02-01T08:00:00.000Z,2023-04-12T14:42:33.386Z,50.97999999999999,2023-04-16
+38,Nike Metcon 8 FlyEase AMP,Men's Easy On/Off Training Shoes,Nike,Court Purple/Barely Volt/Blackened Blue/Baltic Blue,134.95,134.95,GB,True,2023-01-09T08:00:00.000Z,2023-04-13T09:20:02.033Z,0.0,2023-04-16
+39,Jordan Jumpman Pro,Men's Shoes,Jordan,White/Metallic Silver/White/Cherrywood Red,129.95,129.95,GB,True,2022-09-19T07:00:00.000Z,2023-04-13T14:29:55.612Z,0.0,2023-04-16
+40,Nike Pegasus Trail 4 By You,Custom Men's Trail-Running Shoes,NIKEiD,Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2023-04-03T16:00:00.000Z,2023-04-06T06:51:41.148Z,0.0,2023-04-16
+41,Nike Dunk Low,Men's Shoes,Nike Sportswear,Black/Volt/White/Photon Dust,109.95,109.95,GB,True,2023-01-17T08:00:00.000Z,2023-04-06T06:56:17.799Z,0.0,2023-04-16
+42,Jordan ADG 4,Men's Golf Shoes,Jordan,Football Grey/Alabaster/White/University Blue,159.95,159.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-11T15:49:06.422Z,0.0,2023-04-16
+43,Nike Legend Essential 2,Men's Training Shoe,Nike,Black/University Red/White/Black,54.95,43.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-15T05:11:25.281Z,10.980000000000004,2023-04-16
+44,Nike Air Flight 89,Men's Shoes,Nike Sportswear,White/White/White/Black,114.95,114.95,GB,True,2023-01-12T08:00:00.000Z,2023-04-13T10:31:09.034Z,0.0,2023-04-16
+45,Air Jordan 1 Low G,Golf Shoes,Jordan,White/White,114.95,114.95,GB,True,2022-06-13T09:48:00.000Z,2023-04-06T05:58:45.837Z,0.0,2023-04-16
+46,Nike Air Max Alpha Trainer 5,Men's Training Shoes,Nike,Pure Platinum/Black/Green Abyss/Volt,74.95,74.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-12T14:30:21.130Z,0.0,2023-04-16
+47,Nike Phantom GX Club IC,Indoor Court Football Shoes,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,54.95,54.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:57:08.671Z,0.0,2023-04-16
+48,Nike Pegasus 39 Shield By You,Custom Men's Weatherised Road Running Shoes,NIKEiD,Multi-Colour/Multi-Colour/Multi-Colour,152.95,152.95,GB,True,2022-10-27T21:45:00.000Z,2023-04-06T06:45:21.822Z,0.0,2023-04-16
+49,Nike VaporMax 2021 Flyknit,Men's Shoes,Nike Sportswear,Wolf Grey/Medium Blue/Dark Smoke Grey/Medium Blue,199.95,159.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-12T03:37:20.728Z,39.97999999999999,2023-04-16
+50,Nike Gripknit Phantom GX Elite Dynamic Fit FG,Firm-Ground Football Boot,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,249.95,249.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T09:20:28.839Z,0.0,2023-04-16
+51,Kyrie Low 5,Basketball Shoes,Nike,Iron Grey/Wolf Grey/Cool Grey/Coconut Milk,112.95,67.97,GB,True,2023-01-01T14:21:00.000Z,2023-04-12T14:42:14.167Z,44.980000000000004,2023-04-16
+52,Nike Vapor Drive,Hockey Shoes,Nike,University Red/Black/White,113.95,71.97,GB,True,2022-12-22T08:00:00.000Z,2023-04-06T22:22:46.706Z,41.980000000000004,2023-04-16
+53,Nike Free Metcon 5,Men's Training Shoes,Nike,Volt/Wolf Grey/Black/Diffused Blue,114.95,114.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-16T10:21:45.180Z,0.0,2023-04-16
+54,Nike Metcon 8 MF,Men's Training Shoes,Nike,Black/Dark Smoke Grey/Smoke Grey/White,124.95,87.47,GB,True,2022-10-16T07:00:00.000Z,2023-04-11T08:41:57.653Z,37.480000000000004,2023-04-16
+55,Giannis Immortality 2,Basketball Shoes,Nike,Black/Wolf Grey/University Red,74.95,74.95,GB,True,2023-03-22T08:00:00.000Z,2023-04-10T19:26:06.397Z,0.0,2023-04-16
+56,Nike Zoom Mercurial Superfly 9 Elite SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,Black/Summit White/Volt/Dark Smoke Grey,259.95,259.95,GB,True,2022-07-25T07:00:00.000Z,2023-04-13T14:02:26.584Z,0.0,2023-04-16
+57,Nike Air Max Impact 4,Basketball Shoes,Nike,Black/Anthracite/White/Metallic Gold Star,84.95,84.95,GB,True,2022-09-19T07:00:00.000Z,2023-04-06T06:04:41.321Z,0.0,2023-04-16
+58,Nike Air Deldon 'Deldon Designs',Basketball Shoes,Nike,Phantom/Zinnia/Sangria,109.95,109.95,GB,True,2023-01-20T08:00:00.000Z,2023-04-06T06:06:26.992Z,0.0,2023-04-16
+59,Nike Juniper Trail 2 Next Nature,Men's Trail-Running Shoes,Nike,Black/Khaki/Sand Drift/Ironstone,79.95,79.95,GB,True,2023-03-27T07:00:00.000Z,2023-04-14T22:40:21.035Z,0.0,2023-04-16
+60,Nike Tanjun,Men's Shoes,Nike Sportswear,Black/Barely Volt/Black,69.95,69.95,GB,True,2022-02-28T23:00:00.000Z,2023-04-13T14:01:42.712Z,0.0,2023-04-16
+61,Air Jordan Dub Zero,Men's Shoes,Jordan,White/Black/Neutral Grey/True Red,149.95,149.95,GB,True,2022-10-28T07:00:00.000Z,2023-04-13T15:22:18.636Z,0.0,2023-04-16
+62,Nike Tiempo Legend 9 Club TF,Turf Football Shoes,Nike,Black/Summit White/Light Photo Blue/Black,49.95,49.95,GB,True,2022-11-01T08:00:00.000Z,2023-04-06T05:45:14.239Z,0.0,2023-04-16
+63,Nike React Infinity 3,Men's Road Running Shoes,Nike,Black/Black/Black,152.95,152.95,GB,True,2022-03-31T07:00:00.000Z,2023-04-15T08:05:46.034Z,0.0,2023-04-16
+64,Nike Air Max 95 Ultra,Men's Shoes,Nike Sportswear,Diffused Blue/White/Black/Obsidian,169.95,101.97,GB,True,2023-01-05T08:00:00.000Z,2023-04-06T22:31:35.435Z,67.97999999999999,2023-04-16
+65,NikeCourt Air Zoom NXT,Men's Hard Court Tennis Shoes,Nike,Black/White,144.95,144.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T13:16:19.788Z,0.0,2023-04-16
+66,Nike Court Vintage Premium,Men's Shoe,Nike Sportswear,White/Enigma Stone/Gum Light Brown/Fossil,69.95,69.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T05:38:53.892Z,0.0,2023-04-16
+67,Nike Air Max TW,Men's Shoes,Nike Sportswear,Flat Pewter/White/Black/Obsidian,144.95,144.95,GB,True,2023-04-03T07:00:00.000Z,2023-04-07T08:24:12.265Z,0.0,2023-04-16
+68,Nike Air Max 90 Unlocked By You,Custom Shoes,Nike Sportswear,Multi-Colour/Multi-Colour,169.95,169.95,GB,True,2022-10-10T16:00:00.000Z,2023-04-06T06:56:07.971Z,0.0,2023-04-16
+69,Nike Terminator High OG,Men's Shoes,Nike Sportswear,Granite/Sail/Dark Obsidian,124.95,124.95,GB,True,2022-11-07T14:58:00.000Z,2023-04-06T06:51:07.820Z,0.0,2023-04-16
+70,LeBron Witness 7,Basketball Shoes,Nike,Fuchsia Dream/Sail/White/Citron Tint,104.95,104.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-06T06:04:48.648Z,0.0,2023-04-16
+71,Nike SB Force 58,Skate Shoe,Nike,Dutch Blue/White/Black,69.95,69.95,GB,True,2023-03-31T07:00:00.000Z,2023-04-06T05:43:34.356Z,0.0,2023-04-16
+72,Nike Air Force 1 Mid React,Men's Shoes,Nike Sportswear,White/Yellow Ochre/Metallic Gold/Black,134.95,134.95,GB,True,2022-10-05T07:00:00.000Z,2023-04-06T06:23:51.732Z,0.0,2023-04-16
+73,Nike SB Force 58,Skate Shoes,Nike,Midnight Navy/White/Diffused Blue/Safety Orange,69.95,41.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-06T22:15:36.912Z,27.980000000000004,2023-04-16
+74,NikeCourt Air Zoom Vapor Cage 4 Rafa,Men's Clay Tennis Shoes,Nike,Green Abyss/Vivid Purple/Ocean Bliss/White,144.95,144.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-07T19:54:50.090Z,0.0,2023-04-16
+75,Nike x Ambush Air Adjust Force,Men's Shoes,NikeLab,University Blue/Black/Habanero Red/Black,189.95,189.95,GB,True,2022-10-07T13:10:00.000Z,2023-04-06T06:08:23.343Z,0.0,2023-04-16
+76,Nike Court Vision Mid Next Nature,Men's Shoes,Nike Sportswear,Light Smoke Grey/Sail/Black,74.95,74.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T06:12:29.487Z,0.0,2023-04-16
+77,Nike ACG Air Zoom Gaiadome GORE-TEX,Shoes,NikeLab,Trails End Brown/Black,204.95,204.95,GB,True,2023-01-17T08:00:00.000Z,2023-04-06T05:52:35.097Z,0.0,2023-04-16
+78,Nike Winflo 10,Men's Road Running Shoes,Nike,White/Light Crimson/Black,99.95,99.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-12T18:20:48.570Z,0.0,2023-04-16
+79,NikeCourt Air Zoom Lite 3,Men's Clay Court Tennis Shoes,Nike,Mineral Teal/Gridiron/Sail,59.95,59.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-06T06:32:20.222Z,0.0,2023-04-16
+80,Nike SB Ishod Premium,Men's Shoes,Nike,Black/Black/Black/University Red,99.95,99.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-15T06:24:23.031Z,0.0,2023-04-16
+81,Nike Air Max 97,Men's Shoes,Nike Sportswear,Black/Phantom/Coconut Milk/White,164.95,115.47,GB,True,2022-11-07T08:00:00.000Z,2023-04-06T22:16:01.135Z,49.47999999999999,2023-04-16
+82,Zion 2,Men's Basketball Shoes,Jordan,Fossil/Team Gold/University Red/Sail,114.95,114.95,GB,True,2022-09-15T07:09:00.000Z,2023-04-13T14:42:38.782Z,0.0,2023-04-16
+83,Jordan Air 200E,Men's Shoes,Jordan,Hot Curry/Team Orange/Summit White/Black,119.95,83.97,GB,True,2022-08-01T16:10:00.000Z,2023-04-06T22:23:38.402Z,35.980000000000004,2023-04-16
+84,Nike Metcon 8,Men's Training Shoes,Nike,Flat Pewter/Gum Medium Brown/Light Crimson/Phantom,124.95,124.95,GB,True,2022-12-19T08:00:00.000Z,2023-04-15T03:49:18.953Z,0.0,2023-04-16
+85,Nike Air More Uptempo '96,Men's Shoes,Nike Sportswear,Black/University Red/White/Black,164.95,115.47,GB,True,2022-11-14T08:00:00.000Z,2023-04-11T22:28:16.681Z,49.47999999999999,2023-04-16
+86,Nike Air Force 1 Mid By You,Men's Custom Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-10-03T16:00:00.000Z,2023-04-06T06:49:21.260Z,0.0,2023-04-16
+87,Jordan Series Mid,Men's Shoes,Jordan,Flax/Sail/Sail,89.95,89.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:25:04.027Z,0.0,2023-04-16
+88,Nike Free Run 5.0,Men's Road Running Shoes,Nike,Black/Off-Noir/Black,109.95,109.95,GB,True,2022-05-01T10:00:00.000Z,2023-04-14T01:26:36.362Z,0.0,2023-04-16
+89,Nike Venture Runner,Men's Shoe,Nike Sportswear,Black/Black/White,64.95,64.95,GB,True,2020-07-01T08:23:00.000Z,2023-04-13T15:03:29.884Z,0.0,2023-04-16
+90,Nike Terminator High,Men's Shoes,Nike Sportswear,White/University Red,124.95,124.95,GB,True,2023-04-11T11:36:00.000Z,2023-04-11T11:42:57.963Z,0.0,2023-04-16
+91,Nike Pegasus 39 By You,Custom Men's Road Running Shoes,NIKEiD,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-04-21T16:00:00.000Z,2023-04-06T06:28:15.197Z,0.0,2023-04-16
+92,Nike Victori One,Men's Shower Slide,Nike Sportswear,Black/Black/White,24.95,24.95,GB,True,2020-07-20T22:00:00.000Z,2023-04-15T07:46:08.694Z,0.0,2023-04-16
+93,Nike SB Zoom Blazer Low Pro GT,Skate Shoes,Nike,Black/Black/Gum Light Brown/White,74.95,56.47,GB,True,2021-02-01T08:00:00.000Z,2023-04-13T11:52:52.456Z,18.480000000000004,2023-04-16
+94,Nike Zoom Mercurial Vapor 15 Elite FG,Firm-Ground Football Boot,Nike,Yellow Strike/Doll/Coconut Milk/Sunset Glow,234.95,234.95,GB,True,2022-09-01T07:00:00.000Z,2023-04-06T06:00:21.165Z,0.0,2023-04-16
+95,Nike Air Zoom Victory Tour 3,Men's Golf Shoes,Nike,Black/Iron Grey/Light Smoke Grey/White,204.95,204.95,GB,True,2023-03-31T07:00:00.000Z,2023-04-06T06:34:07.389Z,0.0,2023-04-16
+96,Nike Streetgato,Football Shoes,Nike,Game Royal/Yellow Strike/Stadium Green,72.95,72.95,GB,True,2022-10-01T07:00:00.000Z,2023-04-06T22:12:01.237Z,0.0,2023-04-16
+97,Nike Romaleos 4,Training Shoe,Nike,White/White/Black,179.95,179.95,GB,True,2022-08-01T07:00:00.000Z,2023-04-06T21:14:08.570Z,0.0,2023-04-16
+98,Nike Air Max 97 OG,Men's Shoes,Nike Sportswear,Metallic Silver/Black/White/University Red,164.95,164.95,GB,True,2022-11-08T18:18:00.000Z,2023-04-06T06:04:24.891Z,0.0,2023-04-16
+99,Nike Tiempo Legend 9 Elite MI SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,White/Metallic Silver/Game Royal,224.95,224.95,GB,True,2022-11-02T08:00:00.000Z,2023-04-06T06:24:03.943Z,0.0,2023-04-16
+100,Kyrie Flytrap 6,Basketball Shoes,Nike,Black/Iron Grey/White,84.95,50.97,GB,True,2022-09-01T07:00:00.000Z,2023-04-11T22:24:16.602Z,33.980000000000004,2023-04-16
+101,Jordan Series ES,Men's Shoes,Jordan,Light Iron Ore/Sail,79.95,79.95,GB,True,2023-03-22T08:00:00.000Z,2023-04-12T16:07:04.158Z,0.0,2023-04-16
+102,Nike BRSB,Skate Shoes,Nike,Navy/Navy/University Red/White,74.95,74.95,GB,True,2022-11-04T08:00:00.000Z,2023-04-06T22:12:27.594Z,0.0,2023-04-16
+103,Nike Air Penny 2 x Stüssy,Men's Shoes,NikeLab,Rattan/Limestone/Black,179.95,179.95,GB,True,2023-02-09T10:44:00.000Z,2023-04-06T06:46:22.330Z,0.0,2023-04-16
+104,Nike ACG Mountain Fly 2 Low,Men's Shoes,NikeLab,Neutral Olive/Action Grape/Light Orewood Brown/Gridiron,134.95,134.95,GB,True,2023-04-05T09:13:00.000Z,2023-04-13T10:08:09.278Z,0.0,2023-04-16
+105,Nike Zoom Mercurial Superfly 9 Elite AG-Pro,Artificial-Grass Football Boot,Nike,White/Pink Blast/Indigo Haze/Baltic Blue,249.95,249.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T09:42:49.654Z,0.0,2023-04-16
+106,Nike Blazer Mid '77 Vintage,Men's Shoes,Nike Sportswear,White/Wolf Grey/Black/Safety Orange,99.95,89.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T09:45:17.524Z,9.980000000000004,2023-04-16
+107,Nike Air Zoom SuperRep 3,Men's HIIT Class Shoes,Nike,Black/Volt/Anthracite,114.95,68.97,GB,True,2022-12-19T08:00:00.000Z,2023-04-10T15:37:02.642Z,45.980000000000004,2023-04-16
+108,Nike Spike-Flat,Athletics Distance Shoes,Nike,White/Black/Black,89.95,53.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-06T06:10:30.391Z,35.980000000000004,2023-04-16
+109,Nike Zoom Mercurial Vapor 15 Academy AG,Artificial-Grass Football Boots,Nike,White/Pink Blast/Baltic Blue,74.95,74.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:01:21.479Z,0.0,2023-04-16
+110,Nike Renew Elevate 3,Basketball Shoes,Nike,Team Red/University Red/Wolf Grey,74.95,74.95,GB,True,2023-03-22T08:00:00.000Z,2023-04-08T16:26:23.543Z,0.0,2023-04-16
+111,Nike Air Force 1 Low By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-10-03T16:00:00.000Z,2023-04-06T06:49:18.170Z,0.0,2023-04-16
+112,Nike Renew Ride 3,Men's Road Running Shoes,Nike,White/Bright Crimson/Sail/Obsidian,72.95,65.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T09:45:33.741Z,6.980000000000004,2023-04-16
+113,Nike Vomero 16,Men's Road Running Shoes,Nike,White/Photo Blue/Deep Royal Blue/University Red,144.95,144.95,GB,True,2023-03-27T07:00:00.000Z,2023-04-06T06:56:47.780Z,0.0,2023-04-16
+114,NikeCourt Air Zoom Vapor 11,Men's Hard Court Tennis Shoes,Nike,Photon Dust/Baltic Blue/Ashen Slate/Game Royal,169.95,169.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T09:14:59.140Z,0.0,2023-04-16
+115,Nike SB Dunk High Pro,Skate Shoes,Nike,Gorge Green/Black/Gum Light Brown/Gorge Green,99.95,99.95,GB,True,2022-10-20T14:13:00.000Z,2023-04-08T15:26:03.465Z,0.0,2023-04-16
+116,Air Jordan 1 Zoom Comfort 2,Men's Shoes,Jordan,Ivory/Coconut Milk/Faded Green/Palomino,152.95,152.95,GB,True,2023-01-19T10:10:00.000Z,2023-04-06T06:56:06.689Z,0.0,2023-04-16
+117,Nike Air Huarache,Men's Shoes,Nike Sportswear,White/Pure Platinum,114.95,114.95,GB,True,2021-07-19T07:00:00.000Z,2023-04-13T13:22:50.295Z,0.0,2023-04-16
+118,Nike Zoom Mercurial Vapor 15 Academy FG/MG By You,Custom Multi-Ground Football Boot,NIKEiD,Multi-Colour/Multi-Colour,109.95,109.95,GB,True,2022-09-20T16:00:00.000Z,2023-04-06T06:44:57.752Z,0.0,2023-04-16
+119,Kyrie Flytrap 5,Basketball Shoes,Nike,Black/Anthracite/Cool Grey/White,79.95,63.97,GB,True,2023-03-01T13:27:00.000Z,2023-04-14T12:38:57.935Z,15.980000000000004,2023-04-16
+120,Nike Dunk High By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-11-01T16:00:00.000Z,2023-04-10T20:06:29.695Z,0.0,2023-04-16
+121,Nike Tiempo Legend 9 Elite SG-Pro AC,Soft-Ground Football Boot,Nike,Black/Summit White/Light Photo Blue/Dark Smoke Grey,224.95,224.95,GB,True,2022-07-11T07:00:00.000Z,2023-04-13T12:51:53.686Z,0.0,2023-04-16
+122,Nike Phantom GX Academy TF,Turf Football Shoes,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,74.95,74.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-10T13:43:47.921Z,0.0,2023-04-16
+123,Nike Run Swift 2,Men's Road Running Shoes,Nike,Black/Dark Smoke Grey/White,69.95,55.97,GB,True,2020-12-31T23:00:00.000Z,2023-04-13T14:30:33.784Z,13.980000000000004,2023-04-16
+124,Nike SuperRep Go 3 Next Nature Flyknit,Men's Training Shoes,Nike,Cool Grey/Flat Pewter/Light Bone/Photon Dust,99.95,59.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-14T01:13:18.871Z,39.980000000000004,2023-04-16
+125,Nike Cortez,Men's Shoes,Nike Sportswear,White/Light Photo Blue/Sail/Black,89.95,89.95,GB,True,2023-01-30T17:28:00.000Z,2023-04-07T13:09:17.892Z,0.0,2023-04-16
+126,Nike Blazer Mid '77 By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,114.95,114.95,GB,True,2022-04-04T16:00:00.000Z,2023-04-14T22:47:30.643Z,0.0,2023-04-16
+127,Nike Downshifter 12,Men's Road Running Shoes (Extra Wide),Nike,Bright Crimson/Light Orewood Brown/University Gold/Obsidian,64.95,64.95,GB,True,2023-04-04T07:00:00.000Z,2023-04-12T01:16:26.590Z,0.0,2023-04-16
+128,Nike Legend Essential 3 Next Nature,Men's Training Shoes,Nike,Smoke Grey/Dark Smoke Grey/White,59.95,47.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T10:58:55.764Z,11.980000000000004,2023-04-16
+129,Nike Air Max Terrascape 90,Men's Shoes,Nike Sportswear,Phantom/Light Bone/Citron Pulse/Action Grape,144.95,144.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:25:42.464Z,0.0,2023-04-16
+130,Nike Zoom Rival,Athletics Multi-Event Spikes,Nike,Hyper Pink/Laser Orange/Black,64.95,58.47,GB,True,2023-02-01T08:17:00.000Z,2023-04-06T05:50:06.545Z,6.480000000000004,2023-04-16
+131,Nike Gripknit Phantom GX Elite FG,Firm-Ground Football Boot,Nike,Barely Volt/Barely Grape/Gridiron,234.95,234.95,GB,True,2023-03-31T07:00:00.000Z,2023-04-10T12:06:17.565Z,0.0,2023-04-16
+132,NikeCourt Zoom Pro,Men's Hard Court Tennis Shoes,Nike,White/Black/Fuchsia Dream/Picante Red,99.95,59.97,GB,True,2023-01-06T08:00:00.000Z,2023-04-13T12:25:08.047Z,39.980000000000004,2023-04-16
+133,Nike Blazer Mid '77 Jumbo,Men's Shoes,Nike Sportswear,White/Rattan/White/Habanero Red,99.95,59.97,GB,True,2022-10-19T12:52:00.000Z,2023-04-07T15:16:09.338Z,39.980000000000004,2023-04-16
+134,Nike Air Max AP,Men's Shoes,Nike Sportswear,Black/Anthracite/Team Red/Summit White,109.95,65.97,GB,True,2022-11-04T08:00:00.000Z,2023-04-06T22:29:15.217Z,43.980000000000004,2023-04-16
+135,NikeCourt Air Zoom Vapor Pro 2,Men's Clay Tennis Shoes,Nike,Photon Dust/Game Royal/White,114.95,114.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T10:58:38.369Z,0.0,2023-04-16
+136,Nike Air Pegasus '89,Men's Shoes,Nike Sportswear,Wolf Grey/Team Red/White/Wolf Grey,109.95,65.97,GB,True,2023-02-01T08:00:00.000Z,2023-04-11T14:48:04.308Z,43.980000000000004,2023-04-16
+137,Nike SB Dunk Low x Run The Jewels,Men's Shoes,Nike,Deep Royal Blue/Blue Chill/Active Pink,114.95,114.95,GB,True,2023-04-11T11:36:00.000Z,2023-04-16T08:19:51.295Z,0.0,2023-04-16
+138,Nike Savaleos,Weightlifting Shoe,Nike,Grey Fog/Dark Smoke Grey/Total Orange/Clear Emerald,114.95,103.47,GB,True,2022-08-01T07:00:00.000Z,2023-04-13T14:24:23.290Z,11.480000000000004,2023-04-16
+139,Nike Zoom Mercurial Superfly 9 Elite FG,Firm-Ground Football Boot,Nike,Black/Summit White/Volt/Dark Smoke Grey,249.95,249.95,GB,True,2022-07-11T07:00:00.000Z,2023-04-13T13:49:04.414Z,0.0,2023-04-16
+140,Nike Zegama,Men's Trail-Running Shoes,Nike,Black/White,144.95,144.95,GB,True,2022-07-28T07:00:00.000Z,2023-04-16T02:43:41.070Z,0.0,2023-04-16
+141,Nike Benassi JDI,Men's Slide,Nike Sportswear,Midnight Navy/Windchill,29.95,21.47,GB,True,2017-10-01T10:00:00.000Z,2023-04-12T13:09:36.373Z,8.48,2023-04-16
+142,Nike Air Flight 89,Men's Shoes,Nike Sportswear,Black/White,114.95,114.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-12T14:32:35.918Z,0.0,2023-04-16
+143,Air Jordan 1 Hi FlyEase,Men's Shoes,Jordan,Black/White/Fire Red,164.95,164.95,GB,True,2023-01-02T08:30:00.000Z,2023-04-06T05:37:16.773Z,0.0,2023-04-16
+144,Nike Air Max Plus,Men's Shoes,Nike Sportswear,Black/Iron Grey/Cool Grey/Hyper Blue,179.95,179.95,GB,True,2023-02-27T15:00:00.000Z,2023-04-12T14:42:38.515Z,0.0,2023-04-16
+145,Nike Air Max SC,Men's Shoes,Nike Sportswear,Black/Black/Black,79.95,79.95,GB,True,2021-11-29T09:21:00.000Z,2023-04-14T07:05:07.298Z,0.0,2023-04-16
+146,Nike Air Max Plus 3 Premium,Men's Shoes,Nike Sportswear,Black/Fuchsia Dream/Racer Blue,179.95,179.95,GB,True,2023-02-27T08:00:00.000Z,2023-04-06T06:54:15.494Z,0.0,2023-04-16
+147,Nike Waffle Debut,Men's Shoes,Nike Sportswear,Black/Orange/Clear/White,69.95,38.97,GB,True,2022-05-16T10:00:00.000Z,2023-04-12T14:32:32.066Z,30.980000000000004,2023-04-16
+148,Nike Air Max TW,Men's Shoes,Nike Sportswear,Black/Anthracite/Black/Black,144.95,144.95,GB,True,2022-12-19T08:00:00.000Z,2023-04-16T10:15:59.541Z,0.0,2023-04-16
+149,Nike Dunk Low Retro,Men's Shoes,Nike Sportswear,Black/White/University Red,99.95,99.95,GB,True,2022-12-06T01:00:00.000Z,2023-04-06T06:51:40.773Z,0.0,2023-04-16
+150,Nike Air Monarch IV,Men's Training Shoe,Nike,Black/Black,54.95,43.97,GB,True,2021-01-01T15:14:00.000Z,2023-04-06T05:30:09.390Z,10.980000000000004,2023-04-16
+151,Nike Air Max 95,Men's Shoes,Nike Sportswear,Black/Medium Ash/White,164.95,164.95,GB,True,2022-11-15T08:00:00.000Z,2023-04-13T16:12:42.947Z,0.0,2023-04-16
+152,Nike Air Max 270,Men's Shoes,Nike Sportswear,Black/White/Solar Red/Anthracite,144.95,144.95,GB,True,2018-03-02T08:00:00.000Z,2023-04-13T15:56:54.916Z,0.0,2023-04-16
+153,Air Jordan I High G,Men's Golf Shoes,Jordan,White/Black,144.95,144.95,GB,True,2023-01-01T08:00:00.000Z,2023-04-15T07:58:31.540Z,0.0,2023-04-16
+154,Nike Air Max Plus,Men's Shoe,Nike Sportswear,Black/Black/Black,169.95,169.95,GB,True,2022-09-23T07:00:00.000Z,2023-04-13T15:43:22.927Z,0.0,2023-04-16
+155,Air Jordan 1 Mid,Men's Shoes,Jordan,Cement Grey/True Blue/White,114.95,114.95,GB,True,2023-01-17T08:00:00.000Z,2023-04-16T12:43:46.950Z,0.0,2023-04-16
+156,Nike Air Max 90,Men's Shoes,Nike Sportswear,Black/Chlorophyll/Black,134.95,134.95,GB,True,2022-12-26T08:00:00.000Z,2023-04-13T12:32:23.880Z,0.0,2023-04-16
+157,Air Jordan 6 Retro,Shoes,Jordan,White/Midnight Navy,169.95,169.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-15T07:46:28.769Z,0.0,2023-04-16
+158,Nike Air Max 97,Men's Shoes,Nike Sportswear,Black/Smoke Grey/Dark Marina Blue,164.95,131.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T11:13:22.929Z,32.97999999999999,2023-04-16
+159,Air Jordan 1 Low G,Golf Shoes,Jordan,White/Noble Green/Pollen/Black,114.95,114.95,GB,True,2023-02-03T08:00:00.000Z,2023-04-15T07:52:15.265Z,0.0,2023-04-16
+160,Nike Court Vision Low Next Nature,Men's Shoes,Nike Sportswear,Black/Black/White,69.95,45.47,GB,True,2022-11-01T08:00:00.000Z,2023-04-14T07:38:17.786Z,24.480000000000004,2023-04-16
+161,Nike Air VaporMax Plus,Men's Shoes,Nike Sportswear,White/Pure Platinum/White,202.95,202.95,GB,True,2022-08-01T10:30:00.000Z,2023-04-13T15:56:48.344Z,0.0,2023-04-16
+162,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,White/Cool Grey/Black,114.95,114.95,GB,True,2022-12-30T08:00:00.000Z,2023-04-13T11:40:16.621Z,0.0,2023-04-16
+163,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,White/Light Iron Ore/Sand Drift/Pure Platinum,114.95,114.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T06:56:20.765Z,0.0,2023-04-16
+164,Nike Waffle Trainer 2,Men's Shoes,Nike Sportswear,White/Sail/Summit White/Black,84.95,46.97,GB,True,2022-08-01T07:00:00.000Z,2023-04-06T22:22:16.484Z,37.980000000000004,2023-04-16
+165,Nike Air Max 90,Men's Shoe,Nike Sportswear,White/White/Wolf Grey/White,134.95,134.95,GB,True,2021-01-01T07:06:00.000Z,2023-04-13T14:49:37.175Z,0.0,2023-04-16
+166,Nike Air Max SYSTM,Men's Shoes,Nike Sportswear,Black/Anthracite/Summit White/Team Red,89.95,49.47,GB,True,2022-10-17T07:00:00.000Z,2023-04-14T23:23:24.440Z,40.480000000000004,2023-04-16
+167,Nike Air Max Excee,Men's Shoe,Nike Sportswear,Black/Dark Grey/White,109.95,65.97,GB,True,2022-08-01T07:00:00.000Z,2023-04-13T18:23:30.511Z,43.980000000000004,2023-04-16
+168,NikeCourt Air Zoom Pro,Men's Clay Court Tennis Shoes,Nike,Black/White,99.95,74.97,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T10:58:39.649Z,24.980000000000004,2023-04-16
+169,Nike Phantom GT2 Academy FlyEase MG,Easy On/Off Multi-Ground Football Boot,Nike,Baltic Blue/White/Laser Blue/Hot Punch,72.95,72.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:59:33.257Z,0.0,2023-04-16
+170,NikeCourt Vapor Lite,Men's Clay Court Tennis Shoe,Nike,Black/White,64.95,64.95,GB,True,2021-06-24T10:12:00.000Z,2023-04-13T13:41:50.729Z,0.0,2023-04-16
+171,Nike Mercurial Superfly 8 Club IC,Indoor/Court Football Shoe,Nike,Black/Iron Grey/Black,64.95,42.47,GB,True,2022-08-01T10:27:00.000Z,2023-04-06T05:39:50.873Z,22.480000000000004,2023-04-16
+172,Nike Air Force 1 '07 LV8,Men's Shoes,Nike Sportswear,White/White/Black,114.95,114.95,GB,True,2022-10-05T07:00:00.000Z,2023-04-06T06:23:54.288Z,0.0,2023-04-16
+173,Nike Air Max 95 By You,Custom Men's Shoe,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,179.95,179.95,GB,True,2022-06-07T16:00:00.000Z,2023-04-06T06:04:53.089Z,0.0,2023-04-16
+174,Nike Victori One Next Nature,Men's Slides,Nike Sportswear,Black/Anthracite/Safety Orange,37.95,37.95,GB,True,2023-01-17T08:00:00.000Z,2023-04-06T06:08:36.377Z,0.0,2023-04-16
+175,Nike Air Max 90,Men's Shoes,Nike Sportswear,Rattan/Cacao Wow/Cargo Khaki/Copa,144.95,144.95,GB,True,2022-11-28T08:00:00.000Z,2023-04-13T16:19:49.911Z,0.0,2023-04-16
+176,Nike Dunk Low,Men's Shoes,Nike Sportswear,White/Cool Grey/Light Iron Ore/Black,109.95,109.95,GB,True,2022-12-20T14:26:00.000Z,2023-04-15T05:26:24.340Z,0.0,2023-04-16
+177,Nike Zoom Rival,Athletics Jumping Spikes,Nike,Black/Dark Smoke Grey/Light Smoke Grey/Metallic Silver,69.95,69.95,GB,True,2023-03-21T08:36:00.000Z,2023-04-06T06:26:33.164Z,0.0,2023-04-16
+178,Nike Air Zoom G.T. Cut 2,Basketball Shoes,Nike,Leche Blue/Ashen Slate/Green Glow/Green Shock,164.95,164.95,GB,True,2022-12-25T08:00:00.000Z,2023-04-06T06:00:47.682Z,0.0,2023-04-16
+179,Jordan Delta 3 Low,Men's Shoes,Jordan,Pure Platinum/Black/Infrared 23,124.95,124.95,GB,True,2023-02-01T08:00:00.000Z,2023-04-13T12:11:25.671Z,0.0,2023-04-16
+180,Jordan ADG 4 NRG,Men's Golf Shoes,Nike,Grey Fog/Cement Grey/Burnt Sunrise/White,199.95,199.95,GB,True,2022-11-11T08:00:00.000Z,2023-04-15T08:05:13.258Z,0.0,2023-04-16
+181,Nike Tempo,Men's Road Running Shoes,Nike,Hyper Pink/Laser Orange/White/Black,189.95,189.95,GB,True,2023-02-16T08:00:00.000Z,2023-04-15T01:00:39.998Z,0.0,2023-04-16
+182,Nike Air Trainer 1,Men's Shoes,Nike Sportswear,Hay/Taupe/Varsity Red/Baroque Brown,114.95,114.95,GB,True,2022-10-27T10:08:00.000Z,2023-04-15T07:45:04.616Z,0.0,2023-04-16
+183,Giannis Immortality,Basketball Shoes,Nike,Arctic Orange/Light Marine/Light Madder Root/Medium Blue,74.95,54.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-07T15:16:18.472Z,19.980000000000004,2023-04-16
+184,Nike SuperRep Go,Men's Training Shoe,Nike,Black/Dark Smoke Grey/White,89.95,49.47,GB,True,2022-08-01T07:00:00.000Z,2023-04-06T05:36:24.071Z,40.480000000000004,2023-04-16
+185,Roshe G Next Nature,Men's Golf Shoes,Nike,Light Smoke Grey/Hot Punch/Black,89.95,89.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-06T11:25:43.225Z,0.0,2023-04-16
+186,Nike Air Max Plus 3,Men's Shoes,Nike Sportswear,Black/Dark Smoke Grey,169.95,169.95,GB,True,2022-09-01T07:00:00.000Z,2023-04-13T15:02:53.867Z,0.0,2023-04-16
+187,Nike Pegasus 40,Men's Road Running Shoes (Extra Wide),Nike,White/Light Orewood Brown/Phantom/Obsidian,114.95,114.95,GB,True,2023-03-31T07:00:00.000Z,2023-04-16T08:39:06.886Z,0.0,2023-04-16
+188,NikeCourt Air Zoom NXT,Men's Hard Court Tennis Shoes,Nike,White/Picante Red/Fuchsia Dream/Black,144.95,101.47,GB,True,2023-01-06T08:00:00.000Z,2023-04-14T07:19:55.236Z,43.47999999999999,2023-04-16
+189,Nike Air Max Plus,Men's Shoes,Nike Sportswear,Black/University Red/White,169.95,169.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T10:52:15.619Z,0.0,2023-04-16
+190,Nike Air Force 1 High Unlocked By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,164.95,164.95,GB,True,2022-08-30T16:00:00.000Z,2023-04-06T06:31:34.743Z,0.0,2023-04-16
+191,Air Jordan 12 Retro x Eastside Golf,Men's Shoes,Jordan,Muslin/Burnt Sunrise/Black,202.95,202.95,GB,True,2022-11-12T09:06:00.000Z,2023-04-06T06:30:50.219Z,0.0,2023-04-16
+192,Nike Air Pegasus '89,Men's Shoes,Nike Sportswear,Swan/Rose Coral/Black/Medium Grey,109.95,76.97,GB,True,2023-01-26T08:00:00.000Z,2023-04-09T04:57:24.390Z,32.980000000000004,2023-04-16
+193,Nike Zoom Mercurial Vapor 15 Pro FG,Firm-Ground Football Boot,Nike,Metallic Copper/Metallic Copper,134.95,134.95,GB,True,2022-11-17T08:00:00.000Z,2023-04-06T06:27:35.134Z,0.0,2023-04-16
+194,Nike Victori One,Men's Printed Slide,Nike Sportswear,Black/Black/White,29.95,27.47,GB,True,2022-05-20T07:00:00.000Z,2023-04-13T10:52:04.699Z,2.4800000000000004,2023-04-16
+195,Nike Streakfly,Road Racing Shoes,Nike,White/Metallic Silver/Black,144.95,144.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T14:02:36.704Z,0.0,2023-04-16
+196,Nike Cosmic Unity 2,Basketball Shoes,Nike,Wolf Grey/Pure Platinum/Cone/Black,144.95,144.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-14T18:53:41.729Z,0.0,2023-04-16
+197,Nike Quest 5,Men's Road Running Shoes,Nike,Black/Smoke Grey/Dark Smoke Grey/White,72.95,72.95,GB,True,2022-06-30T07:00:00.000Z,2023-04-15T18:22:22.201Z,0.0,2023-04-16
+198,Nike Victori One,Men's Shower Slide,Nike Sportswear,White/White/Black,24.95,20.97,GB,True,2020-07-20T22:00:00.000Z,2023-04-13T09:20:15.097Z,3.9800000000000004,2023-04-16
+199,Nike Air Zoom Flight 95,Men's Shoes,Nike Sportswear,White/Black/Football Grey/Multi-Colour,164.95,164.95,GB,True,2023-02-09T10:44:00.000Z,2023-04-12T15:40:30.838Z,0.0,2023-04-16
+200,Nike Air Force 1 High By You,Men's Custom Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,144.95,144.95,GB,True,2022-10-03T16:00:00.000Z,2023-04-12T00:09:11.351Z,0.0,2023-04-16
+201,Nike Air Penny 2,Men's Shoes,Nike Sportswear,White/Black/Sail/Photon Dust,169.95,169.95,GB,True,2023-04-14T07:00:00.000Z,2023-04-15T10:49:43.078Z,0.0,2023-04-16
+202,Nike Air Max Plus III,Men's Shoes,Nike Sportswear,Black/Black/Wolf Grey,169.95,169.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T15:02:45.479Z,0.0,2023-04-16
+203,Nike Air Force 1 Low SP x UNDERCOVER,Men's Shoes,NikeLab,Black/White/Black/Black,144.95,144.95,GB,True,2022-10-06T09:53:00.000Z,2023-04-06T06:23:54.608Z,0.0,2023-04-16
+204,Air Max 2013 x Stüssy,Men's Shoes,NikeLab,Black/Black/White,189.95,189.95,GB,True,2022-09-01T05:00:00.000Z,2023-04-06T06:14:07.924Z,0.0,2023-04-16
+205,Nike Air Zoom LJ Elite,Athletics Jumping Spikes,Nike,White/Laser Orange/Hyper Pink/Black,114.95,114.95,GB,True,2023-01-20T08:00:00.000Z,2023-04-13T10:58:45.263Z,0.0,2023-04-16
+206,Nike Pegasus Trail 4 GORE-TEX,Men's Waterproof Trail-Running Shoes,Nike,Khaki/Light Bone/Ironstone/Citron Tint,144.95,144.95,GB,True,2022-12-20T08:00:00.000Z,2023-04-13T16:12:48.312Z,0.0,2023-04-16
+207,Nike Tiempo Legend 9 Elite AG-Pro,Artificial-Ground Football Boot,Nike,Black/Summit White/Light Photo Blue/Dark Smoke Grey,214.95,214.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-11T20:39:39.503Z,0.0,2023-04-16
+208,Nike Air Max Pulse,Men's Shoes,Nike Sportswear,Phantom/High Voltage/White,144.95,144.95,GB,True,2023-03-11T08:00:00.000Z,2023-04-06T06:25:55.904Z,0.0,2023-04-16
+209,Nike Victori One,Men's Slide,Nike Sportswear,Black/White/Black,29.95,25.47,GB,True,2020-07-20T22:00:00.000Z,2023-04-13T20:19:32.152Z,4.48,2023-04-16
+210,Jordan Stay Loyal 2,Men's Shoes,Jordan,Black/White/Black/Hyper Royal,109.95,109.95,GB,True,2023-02-15T08:00:00.000Z,2023-04-13T14:15:05.540Z,0.0,2023-04-16
+211,Nike Metcon 8 FlyEase,Men's Easy On/Off Training Shoes,Nike,Phantom/Light Orewood Brown/Green Strike,124.95,124.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-06T06:16:00.737Z,0.0,2023-04-16
+212,Nike Phantom GX Academy AG,Artificial-Grass Football Boot,Nike,Baltic Blue/White/Laser Blue/Pink Blast,74.95,74.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:56:36.653Z,0.0,2023-04-16
+213,Nike Renew Retaliation 4,Men's Training Shoes,Nike,Black/Dark Smoke Grey/Smoke Grey/White,69.95,48.97,GB,True,2022-05-01T10:00:00.000Z,2023-04-14T04:58:04.803Z,20.980000000000004,2023-04-16
+214,Jordan Point Lane,Men's Shoes,Jordan,White/Pollen/Armoury Navy/Rift Blue,124.95,124.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:24:58.177Z,0.0,2023-04-16
+215,Nike Winflo 9 Premium,Men's Road Running Shoes,Nike,Coconut Milk/Sand Drift/Racer Blue/Stadium Green,94.95,94.95,GB,True,2023-02-02T08:00:00.000Z,2023-04-12T00:09:21.590Z,0.0,2023-04-16
+216,Nike Zoom Mercurial Superfly 9 Elite FG By You,Custom Firm-Ground Football Boot,NIKEiD,Multi-Colour/Multi-Colour,279.95,279.95,GB,True,2022-09-20T16:00:00.000Z,2023-04-06T06:32:51.842Z,0.0,2023-04-16
+217,Nike Air Monarch IV (Extra Wide),Lifestyle/Gym Shoe,Nike,White/Midnight Navy/White/Metallic Silver,69.95,69.95,GB,True,2022-09-16T07:00:00.000Z,2023-04-13T15:56:41.554Z,0.0,2023-04-16
+218,Nike Blazer Mid '77 Unlocked By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2023-03-15T16:00:00.000Z,2023-04-06T06:57:31.222Z,0.0,2023-04-16
+219,Nike Gripknit Phantom GX Elite Fusion AG-Pro,Artificial-Grass Football Boot,Nike,Black/White/Blue Glow/Volt,234.95,234.95,GB,True,2023-03-06T08:00:00.000Z,2023-04-06T06:34:09.919Z,0.0,2023-04-16
+220,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,White/Bright Mandarin/Racer Blue,114.95,114.95,GB,True,2023-03-09T08:00:00.000Z,2023-04-12T14:43:39.442Z,0.0,2023-04-16
+221,Nike Air Max Flyknit Racer Next Nature,Men's Shoes,Nike Sportswear,University Red/Wolf Grey/Black/Black,144.95,86.97,GB,True,2022-11-02T08:00:00.000Z,2023-04-16T05:29:57.070Z,57.97999999999999,2023-04-16
+222,Nike Pegasus Trail 4 By You,Custom Women's Trail-Running Shoes,NIKEiD,Multi-Colour/Multi-Colour,152.95,152.95,GB,True,2023-04-03T16:00:00.000Z,2023-04-06T06:51:38.256Z,0.0,2023-04-16
+223,Nike Blazer Low '77 By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour,114.95,114.95,GB,True,2022-06-29T16:00:00.000Z,2023-04-14T21:55:05.306Z,0.0,2023-04-16
+224,Nike Air Huarache Crater Premium,Men's Shoes,Nike Sportswear,Light Bone/Black/Volt/White,124.95,87.47,GB,True,2023-03-01T08:00:00.000Z,2023-04-12T14:32:37.707Z,37.480000000000004,2023-04-16
+225,Nike Air Max 1 Premium,Men's Shoes,Nike Sportswear,Summit White/Wolf Grey/White/Plum Eclipse,152.95,152.95,GB,True,2023-03-06T09:36:00.000Z,2023-04-06T06:51:49.301Z,0.0,2023-04-16
+226,Nike Dunk Low,Men's Shoes,Nike Sportswear,Photon Dust/Racer Blue/White,99.95,99.95,GB,True,2023-04-03T14:00:00.000Z,2023-04-12T17:20:56.731Z,0.0,2023-04-16
+227,Nike Zoom Mercurial Vapor 15 Elite AG-Pro,Artificial-Grass Football Boots,Nike,White/Pink Blast/Indigo Haze/Baltic Blue,234.95,234.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-15T07:52:23.855Z,0.0,2023-04-16
+228,Nike Air Max Terrascape 97,Men's Shoes,Nike Sportswear,Black/Wheat Gold/Rosewood/Saturn Gold,179.95,125.97,GB,True,2023-01-30T08:00:00.000Z,2023-04-06T06:17:12.329Z,53.97999999999999,2023-04-16
+229,Nike ISPA Sense Flyknit,Men's Shoes,NikeLab,Adobe/Guava Ice/Bright Crimson,179.95,179.95,GB,True,2023-02-16T08:00:00.000Z,2023-04-06T05:41:35.754Z,0.0,2023-04-16
+230,Nike Invincible 3,Men's Road Running Shoes,Nike,White/University Red/Photo Blue/Black,169.95,169.95,GB,True,2023-03-27T07:00:00.000Z,2023-04-06T06:56:49.710Z,0.0,2023-04-16
+231,Nike Phantom GX Academy Dynamic Fit TF,Turf Football Shoes,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,84.95,84.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:58:52.599Z,0.0,2023-04-16
+232,Nike Zoom Mercurial Vapor 15 Elite SE FG,Firm-Ground Football Boot,Nike,Black/Black,249.95,174.97,GB,True,2022-11-25T08:00:00.000Z,2023-04-06T22:30:45.716Z,74.97999999999999,2023-04-16
+233,Nike Pegasus Turbo Next Nature,Men's Road Running Shoes,Nike,Pure Platinum/White/Valerian Blue/Bright Spruce,144.95,144.95,GB,True,2022-09-19T07:00:00.000Z,2023-04-14T22:40:15.779Z,0.0,2023-04-16
+234,Nike Air Max 97,Men's Shoes,Nike Sportswear,Cool Grey/Light Smoke Grey/Sail/Photon Dust,179.95,125.97,GB,True,2023-02-01T08:00:00.000Z,2023-04-13T11:34:02.389Z,53.97999999999999,2023-04-16
+235,Nike Zoom Mercurial Superfly 9 Academy MG,Multi-Ground Football Boot,Nike,White/Pink Blast/Baltic Blue,84.95,84.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-15T08:05:47.027Z,0.0,2023-04-16
+236,Nike Air Zoom Rival Fly 3,Men's Road Racing Shoes,Nike,Scream Green/Black/Coconut Milk/Bright Crimson,99.95,99.95,GB,True,2022-12-15T08:00:00.000Z,2023-04-15T07:25:28.342Z,0.0,2023-04-16
+237,Nike Gripknit Phantom GX Elite Dynamic Fit SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,Baltic Blue/White/Laser Blue/Pink Blast,259.95,259.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T10:01:22.680Z,0.0,2023-04-16
+238,Nike Air Force 1 Low Retro,Men's Shoes,Nike Sportswear,White/Gum Yellow/Metallic Gold/Royal Blue,134.95,80.97,GB,True,2022-08-01T09:06:00.000Z,2023-04-14T23:24:01.801Z,53.97999999999999,2023-04-16
+239,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,Black/White/Photon Dust,114.95,114.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T08:09:20.256Z,0.0,2023-04-16
+240,Nike Precision 6,Basketball Shoes,Nike,Black/Gym Red/University Red,69.95,69.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-15T18:03:25.458Z,0.0,2023-04-16
+241,Nike Air Max 90 G NRG,Golf Shoes,Nike,White/Phantom/Iron Grey/Citron Tint,152.95,152.95,GB,True,2023-01-27T00:00:00.000Z,2023-04-06T06:51:37.383Z,0.0,2023-04-16
+242,Nike Invincible 3 By You,Custom Men's Road Running Shoes,NIKEiD,Light Cream/Plum Eclipse,199.95,199.95,GB,True,2023-03-21T16:00:00.000Z,2023-04-06T06:44:11.031Z,0.0,2023-04-16
+243,Jordan Zoom Separate,Basketball Shoes,Jordan,Laser Blue/Marina/Kumquat/Citron Tint,99.95,99.95,GB,True,2022-10-19T12:52:00.000Z,2023-04-13T13:42:11.804Z,0.0,2023-04-16
+244,Nike BRSB,Skate Shoes,Nike,White/White/Black/Black,74.95,44.97,GB,True,2022-11-04T08:00:00.000Z,2023-04-15T07:52:25.527Z,29.980000000000004,2023-04-16
+245,Nike Air Huarache,Men's Shoes,Nike Sportswear,Black/Anthracite/Iron Grey/Picante Red,114.95,80.47,GB,True,2023-01-05T08:00:00.000Z,2023-04-06T06:53:58.330Z,34.480000000000004,2023-04-16
+246,Jumpman Two Trey,Men's Shoes,Jordan,White/University Red/Navy,134.95,80.97,GB,True,2022-09-19T07:00:00.000Z,2023-04-15T20:55:54.504Z,53.97999999999999,2023-04-16
+247,Nike Pegasus FlyEase,Men's Easy On/Off Road Running Shoes,Nike,Platinum Tint/White/Adobe/Light Crimson,109.95,76.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T14:02:30.294Z,32.980000000000004,2023-04-16
+248,The Nike Premier 3 FG,Firm-Ground Football Boot,Nike,Black/White,99.95,99.95,GB,True,2022-08-01T12:03:00.000Z,2023-04-14T13:28:46.525Z,0.0,2023-04-16
+249,Air Jordan XXXVII Low,Basketball Shoes,Jordan,Military Blue/Midnight Navy/True Red/White,164.95,164.95,GB,True,2023-03-02T08:00:00.000Z,2023-04-11T22:24:13.979Z,0.0,2023-04-16
+250,Nike Quest 5,Men's Road Running Shoes,Nike,Black/Smoke Grey/University Red,72.95,72.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-15T18:22:02.128Z,0.0,2023-04-16
+251,Air Jordan XXXVI,Basketball Shoes,Jordan,Black/Rosa mortal/Court Purple/Laser Orange,167.95,100.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-11T15:09:07.298Z,66.97999999999999,2023-04-16
+252,Nike Legend Essential 2,Men's Training Shoe,Nike,Black/Metallic Silver/White,59.95,59.95,GB,True,2023-02-01T08:17:00.000Z,2023-04-15T05:11:29.401Z,0.0,2023-04-16
+253,Nike Zoom Mercurial Superfly 9 Academy TF By You,Custom Turf Football Shoes,NIKEiD,Multi-Colour/Multi-Colour,114.95,114.95,GB,True,2022-09-20T16:00:00.000Z,2023-04-06T06:43:25.467Z,0.0,2023-04-16
+254,Nike Air Presto By You,Custom Men's Shoe,Nike Sportswear,Multi-Colour/Multi-Colour,144.95,144.95,GB,True,2021-10-26T16:00:00.000Z,2023-04-06T05:40:55.127Z,0.0,2023-04-16
+255,Nike Quest 5,Men's Road Running Shoes,Nike,Cargo Khaki/Sequoia/White/Glacier Blue,72.95,62.47,GB,True,2022-12-19T08:00:00.000Z,2023-04-15T18:21:43.891Z,10.480000000000004,2023-04-16
+256,Nike Pegasus FlyEase By You,Custom Men's Easy On/Off Road Running Shoes,NIKEiD,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-04-21T16:00:00.000Z,2023-04-12T21:41:54.030Z,0.0,2023-04-16
+257,Nike Dunk Low,Men's Shoes,Nike Sportswear,Kumquat/Dark Driftwood/Light Bone,109.95,65.97,GB,True,2022-11-25T09:33:00.000Z,2023-04-13T15:22:43.269Z,43.980000000000004,2023-04-16
+258,Nike Tiempo Legend 9 Pro FG,Firm-Ground Football Boot,Nike,Black/Summit White/Light Photo Blue/Dark Smoke Grey,124.95,124.95,GB,True,2022-09-01T07:00:00.000Z,2023-04-12T23:29:54.938Z,0.0,2023-04-16
+259,Luka 1,Basketball Shoes,Jordan,Mint Foam/Court Purple/Dark Concord/Racer Pink,99.95,99.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-12T16:07:12.920Z,0.0,2023-04-16
+260,Nike Zoom Mercurial Vapor 15 Elite SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,White/Pink Blast/Indigo Haze/Baltic Blue,244.95,244.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T11:53:10.726Z,0.0,2023-04-16
+261,Nike Gripknit Phantom GX Elite Dynamic Fit Fusion SG Anti-clog Traction,Soft-Ground Football Boot,Nike,Black/White/Blue Glow/Volt,259.95,259.95,GB,True,2023-03-06T08:00:00.000Z,2023-04-06T06:56:10.324Z,0.0,2023-04-16
+262,Nike Cortez,Men's Shoes,Nike Sportswear,Sail/Black/Pale Vanilla/Aloe Verde,99.95,99.95,GB,True,2023-02-27T13:37:00.000Z,2023-04-06T06:54:14.815Z,0.0,2023-04-16
+263,Nike Air Zoom Infinity Tour NEXT% NRG,Golf Shoes,Nike,Topaz Gold/Phantom/Sea Coral/Gridiron,179.95,179.95,GB,True,2023-03-29T07:00:00.000Z,2023-04-12T13:09:48.014Z,0.0,2023-04-16
+264,Nike Zoom SD 4,Athletics Throwing Shoes,Nike,White/Hyper Pink/Laser Orange/Black,89.95,89.95,GB,True,2023-04-12T07:00:00.000Z,2023-04-15T04:50:55.168Z,0.0,2023-04-16
+265,Nike Air Max Penny,Men's Shoes,Nike Sportswear,White/Summit White/Pure Platinum,169.95,169.95,GB,True,2023-04-05T07:00:00.000Z,2023-04-11T22:29:02.963Z,0.0,2023-04-16
+266,Luka 1 'Next Nature',Basketball Shoes,Jordan,Wolf Grey/Black/Kumquat/Lapis,109.95,109.95,GB,True,2023-03-14T08:00:00.000Z,2023-04-11T20:04:49.233Z,0.0,2023-04-16
+267,Nike Air More Uptempo '96,Men's Shoes,Nike Sportswear,Limestone/Limestone/Valerian Blue,164.95,164.95,GB,True,2022-10-20T07:00:00.000Z,2023-04-12T14:41:34.475Z,0.0,2023-04-16
+268,Nike Blazer Mid Pro Club,Men's Shoes,Nike Sportswear,Light Bone/Sesame/Pecan/Sail,99.95,59.97,GB,True,2023-01-16T08:00:00.000Z,2023-04-15T07:38:42.487Z,39.980000000000004,2023-04-16
+269,NikeCourt Vapor Lite 2,Men's Hard Court Tennis Shoes,Nike,Black/White,74.95,74.95,GB,True,2023-03-27T07:00:00.000Z,2023-04-08T07:41:34.581Z,0.0,2023-04-16
+270,Nike Phantom GX Pro FG,Firm-Ground Football Boots,Nike,Baltic Blue/White/Laser Blue/Pink Blast,134.95,134.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-13T09:49:21.520Z,0.0,2023-04-16
+271,Nike Legend Essential 3 Next Nature,Men's Training Shoes,Nike,Adobe/Phantom/Flat Pewter/Light Crimson,59.95,41.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T11:53:39.557Z,17.980000000000004,2023-04-16
+272,Nike Air Max 90 By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,152.95,152.95,GB,True,2022-05-16T16:00:00.000Z,2023-04-06T06:49:10.949Z,0.0,2023-04-16
+273,NikeCourt Air Zoom Vapor Pro 2,Men's Hard Court Tennis Shoes,Nike,Phantom/Gridiron/Bright Cactus/Mineral Teal,114.95,114.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-11T22:52:38.896Z,0.0,2023-04-16
+274,Nike SB Ishod Premium,Skate Shoes,Nike,Summit White/Summit White/White/Summit White,99.95,69.97,GB,True,2022-11-20T08:00:00.000Z,2023-04-11T16:51:51.425Z,29.980000000000004,2023-04-16
+275,Air Jordan 1 Low OG,Shoes,Jordan,Black/White/Mystic Navy,134.95,134.95,GB,True,2023-02-01T08:00:00.000Z,2023-04-11T22:20:30.647Z,0.0,2023-04-16
+276,Nike Air Max 97 OG,Men's Shoes,Nike Sportswear,Metallic Gold/Black/White/Varsity Red,169.95,169.95,GB,True,2023-01-10T15:47:00.000Z,2023-04-06T06:03:59.141Z,0.0,2023-04-16
+277,Nike Air Max 90 G,Golf Shoe,Nike,Iron Grey/Black/Infrared 23/White,124.95,124.95,GB,True,2022-11-23T08:00:00.000Z,2023-04-06T05:39:33.924Z,0.0,2023-04-16
+278,Nike Air Max Penny,Men's Shoes,Nike Sportswear,Black/Anthracite/Dark Pony/Faded Spruce,169.95,169.95,GB,True,2023-01-02T09:27:00.000Z,2023-04-12T14:42:55.488Z,0.0,2023-04-16
+279,Nike Zoom Fly 5,Men's Running Shoes,Nike,Scream Green/Honeydew/Coconut Milk/Black,164.95,115.47,GB,True,2022-12-15T08:00:00.000Z,2023-04-13T16:12:59.876Z,49.47999999999999,2023-04-16
+280,Nike Air Max 90,Men's Shoes,Nike Sportswear,Black/Picante Red/White/Flat Pewter,134.95,94.47,GB,True,2023-01-05T08:00:00.000Z,2023-04-06T06:53:59.643Z,40.47999999999999,2023-04-16
+281,Luka 1,Basketball Shoes,Jordan,University Red/Bright Crimson/Metallic Gold,99.95,99.95,GB,True,2022-12-04T08:00:00.000Z,2023-04-13T14:30:15.776Z,0.0,2023-04-16
+282,Nike SB Zoom Blazer Mid Premium,Skate Shoes,Nike,Summit White/Summit White,99.95,59.97,GB,True,2022-08-01T10:18:00.000Z,2023-04-06T22:31:48.302Z,39.980000000000004,2023-04-16
+283,Nike Air Max 95,Men's Shoes,Nike Sportswear,Black/Anthracite/Iron Grey/Picante Red,169.95,118.97,GB,True,2023-01-05T08:00:00.000Z,2023-04-06T06:53:58.024Z,50.97999999999999,2023-04-16
+284,Air Jordan 1 Mid SE,Men's Shoes,Jordan,Black/Sesame/Fire Red/Multi-Colour,124.95,124.95,GB,True,2022-12-01T14:00:00.000Z,2023-04-06T06:49:55.345Z,0.0,2023-04-16
+285,Nike Dunk Low,Shoes,Nike Sportswear,White/Opti Yellow/Sail,109.95,109.95,GB,True,2023-01-18T00:00:00.000Z,2023-04-15T08:05:13.808Z,0.0,2023-04-16
+286,NikeCourt Air Zoom Vapor 11,Men's Clay Tennis Shoes,Nike,Photon Dust/Baltic Blue/Ashen Slate/Game Royal,169.95,169.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T10:08:57.683Z,0.0,2023-04-16
+287,"Nike SFB 6"" (15cm approx.) Leather",Men's Boot,Nike Sportswear,Black/Light Taupe/Black,134.95,134.95,GB,True,2022-10-26T13:21:00.000Z,2023-04-06T05:30:56.330Z,0.0,2023-04-16
+288,Nike Renew Ride 3,Men's Road Running Shoes,Nike,Black/Dark Smoke Grey/Smoke Grey/White,72.95,72.95,GB,True,2022-09-01T07:00:00.000Z,2023-04-13T13:29:45.145Z,0.0,2023-04-16
+289,Nike Gripknit Phantom GX Elite Fusion FG,Firm-Ground Football Boots,Nike,Black/White/Blue Glow/Volt,234.95,234.95,GB,True,2023-03-06T08:00:00.000Z,2023-04-06T13:02:15.855Z,0.0,2023-04-16
+290,Nike Air Max 90,Men's Shoes,Nike Sportswear,Wolf Grey/Cool Grey/White,134.95,134.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-06T06:56:49.078Z,0.0,2023-04-16
+291,Nike Air Huarache By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,144.95,144.95,GB,True,2022-10-19T16:00:00.000Z,2023-04-06T06:56:17.359Z,0.0,2023-04-16
+292,Nike Dunk Low Unlocked By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-07-11T16:00:00.000Z,2023-04-06T06:47:24.598Z,0.0,2023-04-16
+293,Nike Kiger 9,Men's Trail-Running Shoes,Nike,Obsidian/Citron Pulse/Baltic Blue/Volt,134.95,134.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-12T01:30:49.613Z,0.0,2023-04-16
+294,Nike Legend Essential 3 Next Nature,Men's Training Shoes,Nike,Black/Black/Anthracite,59.95,59.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-06T22:03:41.235Z,0.0,2023-04-16
+295,Nike React Tiempo Legend 9 Pro IC,Indoor/Court Football Shoe,Nike,Rosewood/Glacier Blue/Pink Foam/White,109.95,109.95,GB,True,2023-02-10T08:00:00.000Z,2023-04-06T05:45:21.813Z,0.0,2023-04-16
+296,Nike Internationalist By You,Custom Men's Shoe,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,109.95,109.95,GB,True,2021-10-13T16:00:00.000Z,2023-04-06T05:54:32.421Z,0.0,2023-04-16
+297,Air Jordan 13 Retro,Shoe,Jordan,Black/White/True Red,189.95,189.95,GB,True,2023-02-17T12:18:00.000Z,2023-04-10T06:24:42.659Z,0.0,2023-04-16
+298,Nike Tiempo Legend 9 Elite SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,Space Purple/White,214.95,214.95,GB,True,2022-11-13T23:00:00.000Z,2023-04-06T06:27:35.909Z,0.0,2023-04-16
+299,Nike React Vision,Men's Shoes,Nike Sportswear,Light Smoke Grey/Particle Grey/Smoke Grey/University Red,124.95,74.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-10T15:36:05.581Z,49.980000000000004,2023-04-16
+300,Nike Tiempo Legend 9 Academy TF,Turf Football Shoe,Nike,White/Baltic Blue/Pink Blast/Black,72.95,72.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-12T18:21:37.715Z,0.0,2023-04-16
+301,Nike Zoom Mercurial Vapor 15 Elite FG,Firm-Ground Football Boot,Nike,Metallic Copper/Metallic Copper,234.95,234.95,GB,True,2022-11-07T08:00:00.000Z,2023-04-15T07:45:09.127Z,0.0,2023-04-16
+302,Air Jordan 1 Zoom CMFT 2,Men's Shoes,Jordan,Palomino/Wild Berry/Desert/Melon Tint,144.95,144.95,GB,True,2023-01-23T00:00:00.000Z,2023-04-09T15:23:06.554Z,0.0,2023-04-16
+303,Paris Saint-Germain,Men's Slides,Jordan,Black/Taxi,44.95,44.95,GB,True,2023-02-01T08:00:00.000Z,2023-04-12T14:43:41.892Z,0.0,2023-04-16
+304,Jordan System.23,Men's Shoes,Jordan,Black/Cement Grey/Black,99.95,59.97,GB,True,2022-11-11T08:00:00.000Z,2023-04-11T22:24:04.564Z,39.980000000000004,2023-04-16
+305,Jordan Delta 3 Nitro Low,Men's Shoes,Jordan,White/Black/Dynamic Turquoise/Siren Red,134.95,80.97,GB,True,2023-01-17T08:00:00.000Z,2023-04-10T15:36:25.331Z,53.97999999999999,2023-04-16
+306,Nike Air Force 1 Low x Ambush,Men's Shoes,NikeLab,Pine Green/Pine Green/Citron Tint,169.95,169.95,GB,True,2022-12-01T15:46:00.000Z,2023-04-15T07:31:52.958Z,0.0,2023-04-16
+307,Nike Victori One Next Nature,Men's Slides,Nike Sportswear,Black/Black/Phantom,37.95,32.47,GB,True,2022-08-01T07:00:00.000Z,2023-04-13T10:31:48.594Z,5.480000000000004,2023-04-16
+308,Nike Zoom Rival,Athletics Distance Spikes,Nike,Black/Dark Smoke Grey/Light Smoke Grey/Metallic Silver,69.95,69.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T09:30:09.202Z,0.0,2023-04-16
+309,Nike Air Max 90,Men's Shoes,Nike Sportswear,White/Cool Grey/Light Smoke Grey/Black,144.95,115.97,GB,True,2023-02-27T15:00:00.000Z,2023-04-06T06:56:16.849Z,28.97999999999999,2023-04-16
+310,Nike Tiempo Legend 9 Academy SG-Pro AC,Soft-Ground Football Boot,Nike,White/Baltic Blue/Pink Blast/Black,74.95,74.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:47:29.739Z,0.0,2023-04-16
+311,Nike Air Max 97,Men's Shoes,Nike Sportswear,Black/Dark Obsidian/Pure Platinum/University Blue,169.95,118.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-12T14:43:09.847Z,50.97999999999999,2023-04-16
+312,Nike Air Max 90 GTX,Men's Shoes,Nike Sportswear,Black/Safety Orange/Anthracite,152.95,107.47,GB,True,2022-12-01T08:00:00.000Z,2023-04-12T14:34:13.749Z,45.47999999999999,2023-04-16
+313,Jordan Retro 6 G NRG,Men's Golf Shoes,Jordan,White/Bordeaux/White,214.95,214.95,GB,True,2023-04-04T07:00:00.000Z,2023-04-12T10:36:16.592Z,0.0,2023-04-16
+314,Jordan 6 Rings,Men's Shoes,Jordan,White/University Red/Light Steel Grey/True Blue,164.95,115.47,GB,True,2022-12-16T08:00:00.000Z,2023-04-12T15:54:41.405Z,49.47999999999999,2023-04-16
+315,Nike Air VaporMax 2021 FK,Men's Shoes,Nike Sportswear,White/Black/Metallic Silver/White,199.95,139.97,GB,True,2022-08-01T10:18:00.000Z,2023-04-12T14:33:33.208Z,59.97999999999999,2023-04-16
+316,The Nike Premier 3 TF,Artificial-Turf Football Shoes,Nike,Black/White,84.95,84.95,GB,True,2022-11-02T08:00:00.000Z,2023-04-13T11:53:43.221Z,0.0,2023-04-16
+317,Jordan One Take 4,Basketball Shoes,Jordan,Black/White/Copa/Light Liquid Lime,89.95,89.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-15T18:41:30.842Z,0.0,2023-04-16
+318,Nike Zoom Javelin Elite 3,Athletics Throwing Spikes,Nike,White/Laser Orange/Hyper Pink/Black,144.95,144.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T05:32:23.356Z,0.0,2023-04-16
+319,Nike Air Max AP,Men's Shoes,Nike Sportswear,Black/Black/Volt/Black,114.95,114.95,GB,True,2021-06-30T22:00:00.000Z,2023-04-13T14:29:55.101Z,0.0,2023-04-16
+320,Jordan Retro 6 G,Men's Golf Shoes,Nike,White/Infrared 23/Black,214.95,214.95,GB,True,2023-02-21T08:00:00.000Z,2023-04-06T06:30:14.800Z,0.0,2023-04-16
+321,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,Summit White/Black/Citron Tint/Malachite,114.95,114.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T12:38:54.414Z,0.0,2023-04-16
+322,Nike Air Max 97 SE,Men's Shoes,Nike Sportswear,Flat Pewter/Light Bone/Black/White,169.95,169.95,GB,True,2023-04-03T07:00:00.000Z,2023-04-06T06:34:26.759Z,0.0,2023-04-16
+323,Nike LeBron IX,Men's Shoes,Nike Sportswear,Regal Pink/Velvet Brown/White/Multi-Colour,204.95,204.95,GB,True,2022-05-19T12:45:00.000Z,2023-04-14T23:24:07.620Z,0.0,2023-04-16
+324,Nike Gripknit Phantom GX Elite AG-Pro,Artificial-Grass Football Boot,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,234.95,234.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-11T03:39:35.543Z,0.0,2023-04-16
+325,Nike Air Force 1 Mid '07,Men's Shoe,Nike Sportswear,Black/Black,114.95,114.95,GB,True,2022-10-24T07:00:00.000Z,2023-04-06T05:41:36.189Z,0.0,2023-04-16
+326,Nike Zoom Mercurial Vapor 15 Academy MG,Multi-Ground Football Boots,Nike,Pink Blast/Gridiron/Volt,74.95,74.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-06T06:00:33.548Z,0.0,2023-04-16
+327,Nike Zoom Mercurial Dream Speed Vapor 15 Elite AG-Pro,Artificial-Grass Football Boot,Nike,Cobalt Bliss/Fuchsia Dream/Hot Punch/Black,244.95,244.95,GB,True,2023-02-13T08:00:00.000Z,2023-04-06T06:31:35.837Z,0.0,2023-04-16
+328,Nike Mercurial Vapor 15 Club MG,Multi-Ground Football Boots,Nike,White/Pink Blast/Baltic Blue,54.95,54.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:01:00.124Z,0.0,2023-04-16
+329,Nike MC Trainer 2,Men's Training Shoes,Nike,Black/Anthracite/White,69.95,48.97,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T11:33:58.116Z,20.980000000000004,2023-04-16
+330,Nike SB Force 58 Premium,Skate Shoe,Nike,White/White/White/Black,72.95,72.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T10:52:16.106Z,0.0,2023-04-16
+331,Nike Zoom Mercurial Vapor 15 Elite FG By You,Custom Firm-Ground Football Boot,NIKEiD,Multi-Colour/Multi-Colour,259.95,259.95,GB,True,2022-09-20T16:00:00.000Z,2023-04-06T06:32:59.942Z,0.0,2023-04-16
+332,Nike Court Vision Low Next Nature,Men's Shoes,Nike Sportswear,Black/Black/Black,69.95,69.95,GB,True,2022-10-01T07:00:00.000Z,2023-04-14T07:38:13.528Z,0.0,2023-04-16
+333,Nike Zoom Mercurial Dream Speed Superfly 9 Elite AG-Pro,Artificial-Grass Football Boot,Nike,Cobalt Bliss/Fuchsia Dream/Hot Punch/Black,259.95,259.95,GB,True,2023-02-13T08:00:00.000Z,2023-04-06T06:31:36.031Z,0.0,2023-04-16
+334,Nike Phantom GX Academy IC,Indoor Court Football Shoes,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,74.95,74.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:56:40.968Z,0.0,2023-04-16
+335,Air Jordan 12 Low,Golf Shoes,Nike,White/Metallic Silver/Varsity Red/French Blue,199.95,139.97,GB,True,2022-08-09T07:00:00.000Z,2023-04-13T13:42:04.326Z,59.97999999999999,2023-04-16
+336,Zion 1 'ZNA',Basketball Shoe,Jordan,Blue Void/Fierce Purple/Indigo Haze/Bright Crimson,104.95,83.97,GB,True,2021-04-20T09:07:00.000Z,2023-04-06T05:45:49.856Z,20.980000000000004,2023-04-16
+337,Nike Venture Runner,Men's Shoe,Nike Sportswear,Summit White/Black/White/Medium Olive,59.95,44.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-13T12:11:31.679Z,14.980000000000004,2023-04-16
+338,Nike SB Blazer Low x Doyenne,Skate Shoes,Nike,Coconut Milk/Limestone/Rattan/Rattan,74.95,74.95,GB,True,2023-02-23T14:00:00.000Z,2023-04-12T01:16:06.101Z,0.0,2023-04-16
+339,Nike Air Max Plus SE,Men's Shoes,Nike Sportswear,Flat Pewter/Photon Dust/Black/White,169.95,169.95,GB,True,2023-04-03T07:00:00.000Z,2023-04-11T22:28:54.941Z,0.0,2023-04-16
+340,Nike Air Force 1 Mid QS,Men's Shoes,Nike Sportswear,White/Ale Brown/Beach/Total Orange,124.95,124.95,GB,True,2022-06-13T10:57:00.000Z,2023-04-06T05:57:52.188Z,0.0,2023-04-16
+341,Nike Tiempo Legend 9 Pro AG-Pro,Artificial-Ground Football Boot,Nike,White/Baltic Blue/Pink Blast/Black,124.95,124.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:47:04.763Z,0.0,2023-04-16
+342,Nike React HyperSet,Indoor Court Shoe,Nike,Black/Gum Light Brown/White,118.95,118.95,GB,True,2022-08-01T16:01:00.000Z,2023-04-13T15:22:55.050Z,0.0,2023-04-16
+343,Nike Zoom LeBron 2,Men's Shoes,Nike Sportswear,White/Varsity Crimson/Midnight Navy,189.95,189.95,GB,True,2022-10-21T07:52:00.000Z,2023-04-15T08:05:36.080Z,0.0,2023-04-16
+344,Jordan Pro Strong,Men's Shoes,Jordan,White/Blue Tint/Off-Noir,134.95,134.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:25:42.129Z,0.0,2023-04-16
+345,Nike Renew Retaliation 4,Men's Training Shoes,Nike,Black/Pure Platinum/Fuchsia Dream/Volt,69.95,45.47,GB,True,2023-02-01T08:17:00.000Z,2023-04-14T04:58:27.812Z,24.480000000000004,2023-04-16
+346,Nike Victori One,Men's Slide,Nike Sportswear,Sail/Light Orewood Brown/Safety Orange,29.95,29.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-13T20:19:36.465Z,0.0,2023-04-16
+347,Nike Air Max 90 By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,152.95,152.95,GB,True,2022-05-16T16:00:00.000Z,2023-04-06T06:49:20.099Z,0.0,2023-04-16
+348,Nike Mercurial Superfly 9 Club TF,Turf Football Shoes,Nike,White/Pink Blast/Baltic Blue,64.95,64.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:00:43.935Z,0.0,2023-04-16
+349,Nike Air Force 1 Low x Slam Jam,Men's Shoes,NikeLab,Black/Off-Noir,152.95,152.95,GB,True,2023-01-11T09:23:00.000Z,2023-04-15T07:38:16.970Z,0.0,2023-04-16
+350,Air Jordan 2 Retro Low,Men's Shoes,Jordan,Sail/Light Curry/Cobblestone/Melon Tint,144.95,144.95,GB,True,2023-03-20T14:13:00.000Z,2023-04-12T15:40:24.170Z,0.0,2023-04-16
+351,KD Trey 5 X,Basketball Shoes,Nike,White/Black/Wolf Grey/Volt,89.95,89.95,GB,True,2023-03-22T08:00:00.000Z,2023-04-06T05:58:53.130Z,0.0,2023-04-16
+352,Nike Air Zoom Maxfly More Uptempo,Athletics Sprinting Spikes,Nike,Black/Black/White,224.95,224.95,GB,True,2023-03-27T07:00:00.000Z,2023-04-13T01:51:50.418Z,0.0,2023-04-16
+353,Nike Court Vision Low,Shoe,Nike Sportswear,Flax/Wheat/Twine/Flax,69.95,69.95,GB,True,2021-10-08T10:10:00.000Z,2023-04-13T15:22:57.337Z,0.0,2023-04-16
+354,Nike SB Zoom Blazer Mid,Skate Shoe,Nike,Black/White/White/White,79.95,79.95,GB,True,2020-02-23T08:00:00.000Z,2023-04-14T00:53:03.834Z,0.0,2023-04-16
+355,Nike SB Zoom Blazer Mid,Skate Shoes,Nike,Midnight Navy/Midnight Navy/Black/Noise Aqua,79.95,79.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T16:19:56.087Z,0.0,2023-04-16
+356,Nike Terminator High Premium,Men's Shoes,Nike Sportswear,Phantom/Pale Vanilla/Sail/Black,124.95,124.95,GB,True,2023-02-15T17:34:00.000Z,2023-04-06T06:53:36.984Z,0.0,2023-04-16
+357,Nike Waffle One Leather,Men's Shoes,Nike Sportswear,Light Bone/Phantom/White/Oil Green,109.95,98.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T09:45:23.344Z,10.980000000000004,2023-04-16
+358,Zoom Freak 4,Basketball Shoes,Nike,White/Black/Stadium Green/Oxygen Purple,114.95,114.95,GB,True,2023-02-01T08:00:00.000Z,2023-04-10T15:32:49.131Z,0.0,2023-04-16
+359,Nike Air Max 97,Men's Shoes,Nike Sportswear,White/Black/Wolf Grey,169.95,169.95,GB,True,2019-11-23T21:00:00.000Z,2023-04-15T08:05:44.400Z,0.0,2023-04-16
+360,Air Jordan Legacy 312 Low,Men's Shoes,Jordan,White/Wolf Grey/University Red/French Blue,124.95,124.95,GB,True,2023-03-08T08:00:00.000Z,2023-04-06T05:36:49.291Z,0.0,2023-04-16
+361,Nike Phantom GX Club TF,Turf Football Shoes,Nike,Baltic Blue/White/Laser Blue/Pink Blast,54.95,54.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-10T05:17:53.985Z,0.0,2023-04-16
+362,Nike Terminator High,Men's Shoes,Nike Sportswear,Swan/Sail/Washed Green/Noble Green,124.95,124.95,GB,True,2023-01-09T15:58:00.000Z,2023-04-12T14:42:06.832Z,0.0,2023-04-16
+363,Nike Renew Run 4,Men's Road Running Shoes,Nike,Black/Black/Off-Noir,84.95,55.47,GB,True,2023-02-01T08:17:00.000Z,2023-04-15T09:09:42.077Z,29.480000000000004,2023-04-16
+364,Nike SB Chron 2,Skate Shoe,Nike,Summit White/Phantom/White/University Red,64.95,38.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-11T15:49:12.580Z,25.980000000000004,2023-04-16
+365,Nike ISPA Link,Men's Shoes,NikeLab,Light Iron Ore/Smoke Grey/Black,202.95,202.95,GB,True,2022-08-01T07:00:00.000Z,2023-04-10T07:15:09.939Z,0.0,2023-04-16
+366,Nike Air Huarache Premium,Men's Shoes,Nike Sportswear,Summit White/Light Smoke Grey/Comet Blue/Anthracite,124.95,74.97,GB,True,2022-11-09T08:00:00.000Z,2023-04-12T14:32:52.134Z,49.980000000000004,2023-04-16
+367,Nike React Phantom GX Pro TF,Turf Football Shoes,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,114.95,114.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:56:36.744Z,0.0,2023-04-16
+368,Jordan Post,Men's Slides,Jordan,Black/Black,27.95,27.95,GB,True,2023-03-30T07:00:00.000Z,2023-04-12T18:20:28.524Z,0.0,2023-04-16
+369,Nike Defy All Day,Men's Training Shoe,Nike,White,59.95,59.95,GB,True,2021-05-31T22:00:00.000Z,2023-04-13T10:31:25.823Z,0.0,2023-04-16
+370,KD15,Basketball Shoes,Nike,Metallic Gold/University Red/Orewood Brown/Midnight Navy,134.95,134.95,GB,True,2023-02-06T08:00:00.000Z,2023-04-12T15:54:36.298Z,0.0,2023-04-16
+371,Nike Dunk High Retro,Men's Shoes,Nike Sportswear,Stadium Green/Stadium Green/White/White,109.95,109.95,GB,True,2023-04-11T07:00:00.000Z,2023-04-12T14:44:02.574Z,0.0,2023-04-16
+372,Nike React Vision,Men's Shoes,Nike Sportswear,Black/Iron Grey/White/University Red,119.95,83.97,GB,True,2022-10-28T07:00:00.000Z,2023-04-06T06:51:38.556Z,35.980000000000004,2023-04-16
+373,Nike SB Zoom Blazer Mid Premium Plus,Skate Shoes,Nike,Plum Eclipse/Kumquat/Gum Yellow/Plum Eclipse,99.95,59.97,GB,True,2023-01-10T08:00:00.000Z,2023-04-12T00:54:56.909Z,39.980000000000004,2023-04-16
+374,Nike Streetgato,Football Shoes,Nike,Cave Purple/Off-Noir/Pink Blast,72.95,47.47,GB,True,2022-11-17T08:00:00.000Z,2023-04-07T15:16:36.531Z,25.480000000000004,2023-04-16
+375,Air Jordan 1 Retro High OG,Men's Shoes,Jordan,True Blue/Cement Grey/White,164.95,164.95,GB,True,2023-01-05T08:30:00.000Z,2023-04-16T12:55:06.278Z,0.0,2023-04-16
+376,Nike Romaleos 4 SE,Training Shoes,Nike,Pale Ivory/Phantom/Spruce Aura/Hyper Violet,178.95,178.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-15T04:50:50.696Z,0.0,2023-04-16
+377,Nike Gripknit Phantom GX Elite Dynamic Fit Fusion FG,Firm-Ground Football Boots,Nike,Black/White/Blue Glow/Volt,249.95,249.95,GB,True,2023-03-06T08:00:00.000Z,2023-04-06T07:35:25.556Z,0.0,2023-04-16
+378,Air Jordan 1 Mid SE,Men's Shoes,Jordan,White/Black/Ice Blue,119.95,119.95,GB,True,2023-03-20T15:00:00.000Z,2023-04-14T14:36:07.545Z,0.0,2023-04-16
+379,Nike ISPA Sense Flyknit,Men's Shoes,NikeLab,Enigma Stone/Elemental Gold/Seafoam,179.95,179.95,GB,True,2022-09-01T07:56:00.000Z,2023-04-15T07:58:32.810Z,0.0,2023-04-16
+380,Nike Air Flight Lite Mid,Men's Shoe,Nike Sportswear,White/Black,119.95,119.95,GB,True,2022-09-16T07:00:00.000Z,2023-04-13T13:48:38.147Z,0.0,2023-04-16
+381,Nike MC Trainer 2,Men's Training Shoes,Nike,Obsidian/White/Bright Crimson,69.95,69.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-06T22:13:25.254Z,0.0,2023-04-16
+382,NikeCourt Zoom Pro,Men's Hard Court Tennis Shoes,Nike,Gridiron/Mineral Teal/Bright Cactus/Sail,99.95,99.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-10T15:36:28.678Z,0.0,2023-04-16
+383,Nike Dunk Low Retro,Men's Shoes,Nike Sportswear,Apple Green/White/Yellow Strike/Yellow Strike,99.95,99.95,GB,True,2023-03-06T15:00:00.000Z,2023-04-06T06:29:32.764Z,0.0,2023-04-16
+384,Nike x MMW 005,Men's Slides,NikeLab,Light Bone/Chrome/Light Bone,169.95,169.95,GB,True,2022-09-15T11:45:00.000Z,2023-04-06T05:58:18.654Z,0.0,2023-04-16
+385,Nike Terminator High SE,Men's Shoes,Nike Sportswear,Black/Baroque Brown/Velvet Brown,124.95,124.95,GB,True,2023-01-30T17:28:00.000Z,2023-04-12T14:41:57.318Z,0.0,2023-04-16
+386,Nike SB Chron 2,Skate Shoe,Nike,Black/Black/Gum Light Brown/White,64.95,45.47,GB,True,2021-06-30T22:00:00.000Z,2023-04-13T11:40:27.504Z,19.480000000000004,2023-04-16
+387,Nike Vaporfly 3,Men's Road Racing Shoes,Nike,Sail/Total Orange/Volt/Cobalt Bliss,234.95,234.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-16T09:51:22.485Z,0.0,2023-04-16
+388,Nike Air Force 1 Low Unlocked By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,144.95,144.95,GB,True,2023-01-12T17:00:00.000Z,2023-04-06T06:55:50.874Z,0.0,2023-04-16
+389,Nike React Vision,Men's Shoe,Nike Sportswear,Black/Black/White,124.95,124.95,GB,True,2022-02-11T13:13:00.000Z,2023-04-13T15:23:00.020Z,0.0,2023-04-16
+390,Nike SB Dunk High x Run The Jewels,Men's Shoes,Nike,Active Pink/Metallic Gold/Black,114.95,114.95,GB,True,2023-04-11T11:36:00.000Z,2023-04-12T22:10:20.866Z,0.0,2023-04-16
+391,Nike Air VaporMax 2021 FK,Men's Shoes,Nike Sportswear,Black/Black/Anthracite/Black,199.95,199.95,GB,True,2022-08-01T10:30:00.000Z,2023-04-13T13:42:03.163Z,0.0,2023-04-16
+392,Jordan One Take 4,Basketball Shoes,Jordan,Black/White/Purple Pulse/Dark Concord,89.95,53.97,GB,True,2023-01-09T08:00:00.000Z,2023-04-15T18:41:42.190Z,35.980000000000004,2023-04-16
+393,Nike Zoom Mercurial Superfly 9 Academy IC,Indoor Court Football Shoes,Nike,White/Pink Blast/Baltic Blue,84.95,84.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:00:33.106Z,0.0,2023-04-16
+394,Nike Air Force 1 Low Retro,Men's Shoes,Nike Sportswear,University Red/White,134.95,134.95,GB,True,2023-01-16T11:06:00.000Z,2023-04-06T06:56:16.356Z,0.0,2023-04-16
+395,Nike Dunk High Retro,Men's Shoe,Nike Sportswear,Dark Beetroot/Wolf Grey/White/Dark Beetroot,109.95,109.95,GB,True,2022-09-07T00:00:00.000Z,2023-04-07T09:24:26.527Z,0.0,2023-04-16
+396,Nike Air Max Excee,Men's Shoe,Nike Sportswear,White/Pure Platinum/Black,109.95,109.95,GB,True,2019-06-05T22:00:00.000Z,2023-04-13T18:24:31.012Z,0.0,2023-04-16
+397,Nike Victori One Next Nature,Men's Slides,Nike Sportswear,Light Iron Ore/Black,37.95,30.47,GB,True,2022-05-09T07:00:00.000Z,2023-04-06T22:25:08.256Z,7.480000000000004,2023-04-16
+398,Nike Renew Run 4,Men's Road Running Shoes,Nike,Bright Crimson/Hot Punch/Obsidian/White,84.95,76.47,GB,True,2023-03-01T08:00:00.000Z,2023-04-15T09:09:35.805Z,8.480000000000004,2023-04-16
+399,Nike Air Force 1 Low Retro,Men's Shoes,Nike Sportswear,White/Metallic Gold/Flat Silver/Metallic Silver,134.95,134.95,GB,True,2022-11-22T15:34:00.000Z,2023-04-06T06:50:07.703Z,0.0,2023-04-16
+400,Nike Air Max Plus 3,Men's Shoes,Nike Sportswear,White/Black/Gunsmoke/Team Orange,169.95,169.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T15:02:52.715Z,0.0,2023-04-16
+401,Nike Court Vision Low,Men's Shoes,Nike Sportswear,Black/White/University Red,69.95,41.97,GB,True,2022-05-30T09:46:00.000Z,2023-04-06T22:24:59.880Z,27.980000000000004,2023-04-16
+402,Nike SB Zoom Blazer Mid,Skate Shoe,Nike,Black/Black/Sail/White,79.95,51.97,GB,True,2022-09-19T07:00:00.000Z,2023-04-14T00:53:09.542Z,27.980000000000004,2023-04-16
+403,Air Jordan 5 Retro Low SP,Shoes,Jordan,Black/Fire Red/Metallic Silver/Classic Jade,179.95,179.95,GB,True,2022-09-01T05:00:00.000Z,2023-04-06T06:06:27.027Z,0.0,2023-04-16
+404,Nike Air Max Scorpion Flyknit SE,Men's Shoes,Nike Sportswear,Racer Blue/Game Royal/Deep Royal Blue/Safety Orange,224.95,224.95,GB,True,2023-03-01T13:25:00.000Z,2023-04-11T20:53:34.960Z,0.0,2023-04-16
+405,Nike Air Max SC,Men's Shoes,Nike Sportswear,White/Light Orewood Brown/Gum Light Brown/Picante Red,79.95,79.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-13T18:23:53.809Z,0.0,2023-04-16
+406,Nike Air Trainer 1,Men's Shoes,Nike Sportswear,White/University Blue/Old Royal/White,114.95,114.95,GB,True,2022-11-21T08:00:00.000Z,2023-04-06T06:29:12.934Z,0.0,2023-04-16
+407,Nike Kwondo 1 x PEACEMINUSONE,Shoes,NikeLab,White/Black/Black,164.95,164.95,GB,True,2023-04-06T09:36:00.000Z,2023-04-15T06:54:18.456Z,0.0,2023-04-16
+408,Nike Alphafly 2,N,Nike,N,279.95,279.95,GB,True,2023-02-16T08:00:00.000Z,2023-04-06T06:12:30.821Z,0.0,2023-04-16
+409,Nike Dunk High Retro,o,Nike Sportswear,o,109.95,109.95,GB,True,2023-01-10T08:00:00.000Z,2023-04-06T06:01:21.699Z,0.0,2023-04-16
+410,Nike Air Max 95,t,Nike Sportswear,t,169.95,169.95,GB,True,2023-01-17T08:00:00.000Z,2023-04-13T12:11:30.775Z,0.0,2023-04-16
+411,Nike Air Max Terrascape 90,_,Nike Sportswear,_,144.95,144.95,GB,True,2022-08-01T10:18:00.000Z,2023-04-13T14:50:22.756Z,0.0,2023-04-16
+412,Jordan Series ES,f,Jordan,f,74.95,41.47,GB,True,2022-08-01T10:18:00.000Z,2023-04-10T02:34:10.444Z,33.480000000000004,2023-04-16
+413,Jordan Max Aura 4,o,Jordan,o,114.95,114.95,GB,True,2022-06-22T07:00:00.000Z,2023-04-13T14:30:11.565Z,0.0,2023-04-16
+414,Nike Waffle One Leather,u,Nike Sportswear,u,109.95,60.47,GB,True,2022-08-01T09:02:00.000Z,2023-04-10T15:36:58.445Z,49.480000000000004,2023-04-16
+415,Air Jordan 1 Low,n,Jordan,n,109.95,109.95,GB,True,2022-06-22T07:00:00.000Z,2023-04-16T12:43:02.348Z,0.0,2023-04-16
+416,Nike Flex Experience Run 11 Next Nature,d,Nike,d,64.95,64.95,GB,True,2022-08-01T07:00:00.000Z,2023-04-14T22:22:29.711Z,0.0,2023-04-16
+417,Nike Blazer Mid '77 Vintage,Men's Shoes,Nike Sportswear,White/White/Black,99.95,59.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-12T14:42:15.080Z,39.980000000000004,2023-04-16
+418,Nike Victori One,Men's Printed Slide,Nike Sportswear,Medium Olive/Sequoia/Black,32.95,29.97,GB,True,2022-12-19T08:00:00.000Z,2023-04-13T14:50:27.080Z,2.980000000000004,2023-04-16
+419,NikeCourt Vapor Lite,Men's Hard Court Tennis Shoes,Nike,Black/White,64.95,64.95,GB,True,2021-05-06T22:00:00.000Z,2023-04-15T07:46:08.736Z,0.0,2023-04-16
+420,Air Jordan 12 Low,Golf Shoes,Nike,White/White/Metallic Silver/Varsity Red,199.95,159.97,GB,True,2022-11-15T08:18:00.000Z,2023-04-13T13:42:24.710Z,39.97999999999999,2023-04-16
+421,NikeCourt Zoom NXT,Men's Hard Court Tennis Shoes,Nike,Obsidian/Green Glow/White/Hyper Pink,134.95,134.95,GB,True,2022-11-11T08:00:00.000Z,2023-04-06T05:57:18.150Z,0.0,2023-04-16
+422,Nike Zoom Mercurial Vapor 15 Elite SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,Metallic Copper/Metallic Copper,244.95,244.95,GB,True,2022-11-07T08:00:00.000Z,2023-04-06T06:27:34.016Z,0.0,2023-04-16
+423,Nike SB Chron 2,Skate Shoe,Nike,Summit White/Summit White/Sand Drift/Action Grape,64.95,64.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-16T02:52:07.303Z,0.0,2023-04-16
+424,Nike Zoom Rival,Athletics Distance Spikes,Nike,Blue Chill/Bright Crimson/White/Black,69.95,62.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T10:14:21.170Z,6.980000000000004,2023-04-16
+425,Nike Offcourt,Men's Slides,Nike Sportswear,Green Spark/Pine Green/Pro Green/White,39.95,31.97,GB,True,2022-10-27T07:00:00.000Z,2023-04-13T15:56:30.204Z,7.980000000000004,2023-04-16
+426,Nike Air Max 90,Men's Shoes,Nike Sportswear,Wheatgrass/University Gold/Light Bone/Wheatgrass,144.95,144.95,GB,True,2022-10-14T19:10:00.000Z,2023-04-13T16:13:05.200Z,0.0,2023-04-16
+427,Nike Romaleos 4 SE,Weightlifting Shoe,Nike,White/Bright Crimson/Pink Blast/Black,178.95,178.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-11T13:57:40.497Z,0.0,2023-04-16
+428,Air Jordan 1 Retro High OG Craft,Men's Shoes,Jordan,Vivid Orange/Iced Lilac/True Blue/Black,169.95,169.95,GB,True,2023-03-23T12:38:00.000Z,2023-04-11T13:38:20.082Z,0.0,2023-04-16
+429,Nike Air Huarache,Men's Shoes,Nike Sportswear,Black/Phantom/Khaki,114.95,68.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-06T22:22:50.934Z,45.980000000000004,2023-04-16
+430,Nike ACG Air Mada,Men's Shoes,NikeLab,Light Menta/Electric Purple/Tour Yellow/Black,124.95,74.97,GB,True,2022-10-04T08:06:00.000Z,2023-04-06T22:26:35.525Z,49.980000000000004,2023-04-16
+431,Nike React HyperSet LE,Indoor Court Shoes,Nike,White/Summit White/Gum Light Brown/Metallic Gold,117.95,117.95,GB,True,2023-01-10T08:00:00.000Z,2023-04-13T10:31:25.666Z,0.0,2023-04-16
+432,Nike Legend Essential 2,Men's Training Shoe,Nike,Pure Platinum/White/Black,54.95,41.47,GB,True,2020-12-15T16:44:00.000Z,2023-04-15T05:11:30.379Z,13.480000000000004,2023-04-16
+433,Nike Dunk High Retro,Men's Shoes,Nike Sportswear,Iron Grey/Opti Yellow/White/Gym Red,114.95,114.95,GB,True,2023-03-09T08:00:00.000Z,2023-04-06T06:54:15.872Z,0.0,2023-04-16
+434,Nike Air Max 95,Men's Shoes,Nike Sportswear,White/Coconut Milk/Rough Green/Black,169.95,84.97,GB,True,2023-02-01T13:49:00.000Z,2023-04-06T06:47:13.610Z,84.97999999999999,2023-04-16
+435,Nike Blazer Low '77 Premium,Men's Shoes,Nike Sportswear,White/White/University Red/Stadium Green,89.95,62.97,GB,True,2023-01-05T08:00:00.000Z,2023-04-06T06:29:34.177Z,26.980000000000004,2023-04-16
+436,Nike Wildhorse 8,Men's Trail-Running Shoes,Nike,Black/Cool Grey/White/Wolf Grey,114.95,114.95,GB,True,2023-03-07T08:00:00.000Z,2023-04-16T10:15:59.503Z,0.0,2023-04-16
+437,Zoom Freak 4 'Letter Bros',Basketball Shoes,Nike,Ironstone/Cobblestone/Sail/Orange Trance,114.95,80.47,GB,True,2022-11-01T08:00:00.000Z,2023-04-06T22:24:00.754Z,34.480000000000004,2023-04-16
+438,Luka 1 'Next Nature',Men's Basketball Shoes,Jordan,Light Orewood Brown/Black/Barely Green/Light Menta,109.95,109.95,GB,True,2022-12-01T08:00:00.000Z,2023-04-13T15:37:35.472Z,0.0,2023-04-16
+439,Nike Air Max 1 '86 Premium,Men's Shoes,Nike Sportswear,White/Light Neutral Grey/University Red,144.95,144.95,GB,True,2023-03-18T12:46:00.000Z,2023-04-16T09:22:14.273Z,0.0,2023-04-16
+440,Nike Air Max 95 '3 Lions',Men's Shoes,Nike Sportswear,White/Challenge Red/Blue Void/White,169.95,169.95,GB,True,2022-11-04T08:00:00.000Z,2023-04-06T06:51:33.062Z,0.0,2023-04-16
+441,"Nike Air Deldon ""Legacy""",Easy On/Off Basketball Shoes,Nike,Summit White/Pure Platinum/Indigo Storm,109.95,109.95,GB,True,2023-02-09T08:00:00.000Z,2023-04-06T06:06:00.702Z,0.0,2023-04-16
+442,Nike Air Max 270,Men's Shoes,Nike Sportswear,Wolf Grey/Iron Grey/Black,144.95,144.95,GB,True,2023-01-12T09:00:00.000Z,2023-04-13T12:51:26.129Z,0.0,2023-04-16
+443,Nike Air Max 97 SE,Men's Shoes,Nike Sportswear,Summit White/Safety Orange/Lemon Wash/Black,179.95,179.95,GB,True,2023-02-23T08:00:00.000Z,2023-04-06T06:31:46.552Z,0.0,2023-04-16
+444,Nike Air Kukini SE,Men's Shoes,Nike Sportswear,Coast/Signal Blue/White/Black,124.95,56.47,GB,True,2022-09-29T09:09:00.000Z,2023-04-10T15:31:47.385Z,68.48,2023-04-16
+445,Nike Air Penny 2 x Stüssy,Men's Shoes,NikeLab,Black/Black/White,179.95,179.95,GB,True,2022-12-12T15:09:00.000Z,2023-04-15T07:52:14.293Z,0.0,2023-04-16
+446,Jordan Point Lane,Men's Shoes,Jordan,White/Light Smoke Grey/University Red/Hyper Royal,124.95,87.47,GB,True,2022-09-14T07:00:00.000Z,2023-04-12T11:27:34.800Z,37.480000000000004,2023-04-16
+447,Nike Air Zoom Infinity Tour NEXT%,Men's Golf Shoes,Nike,Wolf Grey/Cool Grey/Black,159.95,119.97,GB,True,2023-01-05T08:00:00.000Z,2023-04-13T09:36:22.298Z,39.97999999999999,2023-04-16
+448,Air Jordan 1 Zoom CMFT,Shoes,Jordan,Fossil Stone/Fossil Rose/Psychic Purple/White,144.95,144.95,GB,True,2022-07-11T08:55:00.000Z,2023-04-15T07:58:27.294Z,0.0,2023-04-16
+449,ACG Air Deschutz+,Sandals,NikeLab,Midnight Navy/Thunder Blue/Rattan/Light Crimson,72.95,72.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:25:56.907Z,0.0,2023-04-16
+450,Nike Air Zoom Infinity Tour NEXT%,Men's Golf Shoes,Nike,Phantom/White/Bright Crimson/Obsidian,159.95,159.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-06T05:49:19.991Z,0.0,2023-04-16
+451,Nike React Tiempo Legend 9 Pro TF,Turf Football Shoe,Nike,Black/Summit White/Light Photo Blue/Dark Smoke Grey,99.95,99.95,GB,True,2022-08-01T07:00:00.000Z,2023-04-14T05:25:25.299Z,0.0,2023-04-16
+452,Nike Air Max AP,Men's Shoes,Nike Sportswear,Black/Anthracite/White/Volt,114.95,68.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-06T22:21:26.656Z,45.980000000000004,2023-04-16
+453,Nike Air Max 97 Premium,Men's Shoes,Nike Sportswear,Medium Brown/Mushroom/Muslin/Pink Foam,169.95,169.95,GB,True,2022-08-19T07:44:00.000Z,2023-04-06T06:25:21.697Z,0.0,2023-04-16
+454,Nike Pole Vault Elite,Athletics Jumping Spikes,Nike,White/Laser Orange/Hyper Pink/Black,119.95,119.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T05:32:00.577Z,0.0,2023-04-16
+455,Air Jordan 1 Low,Men's Shoes,Jordan,Black/White/Gym Red,109.95,109.95,GB,True,2023-03-30T10:33:00.000Z,2023-04-16T12:43:16.557Z,0.0,2023-04-16
+456,NikeCourt Vapor Lite 2,Men's Clay Tennis Shoes,Nike,Black/White,74.95,74.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-07T19:54:59.882Z,0.0,2023-04-16
+457,Nike x Billie Eilish Air Force 1 High '07,Shoes,NikeLab,Sequoia/Sequoia/Sequoia,152.95,152.95,GB,True,2022-10-04T08:35:00.000Z,2023-04-06T06:08:15.250Z,0.0,2023-04-16
+458,Zoom KD 3,Men's Shoes,Nike Sportswear,Challenge Red/Black/White,114.95,114.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-13T06:03:56.082Z,0.0,2023-04-16
+459,Nike SB Ishod Wair Premium,Skate Shoes,Nike,Light Stone/Summit White/White/Khaki,89.95,89.95,GB,True,2023-02-01T08:17:00.000Z,2023-04-07T15:14:53.426Z,0.0,2023-04-16
+460,Nike Flex Experience Run 11 Next Nature,Men's Road Running Shoes,Nike,Aviator Grey/Metallic Silver/Black,59.95,44.97,GB,True,2022-09-01T07:00:00.000Z,2023-04-14T22:22:14.266Z,14.980000000000004,2023-04-16
+461,Nike Air Force 1 '07 LX,Men's Shoes,Nike Sportswear,White/Coconut Milk/Pale Vanilla,109.95,109.95,GB,True,2022-07-11T08:55:00.000Z,2023-04-15T07:52:15.592Z,0.0,2023-04-16
+462,Nike Gripknit Phantom GX Elite Dynamic Fit AG-Pro,Artificial-Grass Football Boot,Nike,Baltic Blue/White/Laser Blue/Pink Blast,249.95,249.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T09:49:33.515Z,0.0,2023-04-16
+463,Nike React Tiempo Legend 9 Pro TF,Turf Football Shoe,Nike,Rosewood/Glacier Blue/Rosewood/White,109.95,65.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-14T05:25:25.549Z,43.980000000000004,2023-04-16
+464,Zion 2 x Naruto,Men's Basketball Shoes,Jordan,Black/Yellow Strike/Dark Purple Dust/Laser Blue,124.95,124.95,GB,True,2023-02-09T00:00:00.000Z,2023-04-06T06:50:37.748Z,0.0,2023-04-16
+465,Nike Air Force 1 Mid '07 LX,Men's Shoes,Nike Sportswear,Limestone/Rattan/Summit White/Limestone,124.95,124.95,GB,True,2022-10-07T09:46:00.000Z,2023-04-06T06:34:49.621Z,0.0,2023-04-16
+466,Nike Phantom GX Academy SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,Baltic Blue/White/Laser Blue/Pink Blast,79.95,79.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:56:46.284Z,0.0,2023-04-16
+467,Nike SB Ishod Wair Premium,Skate Shoes,Nike,White/White/Black/Black,99.95,99.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T22:09:10.043Z,0.0,2023-04-16
+468,Nike Air Zoom Long Jump Elite,Athletics Jumping Spikes,Nike,White/Black/Black/Black,109.95,98.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-06T06:00:21.161Z,10.980000000000004,2023-04-16
+469,Nike Air Max 90 G,Golf Shoes,Nike,White/Black/Photon Dust/Game Royal,124.95,124.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-14T07:12:17.136Z,0.0,2023-04-16
+470,Nike Air Max 90,Men's Shoes,Nike Sportswear,Court Purple/Lemon Drop/Wolf Grey/Black,124.95,124.95,GB,True,2021-11-30T08:00:00.000Z,2023-04-06T05:49:47.467Z,0.0,2023-04-16
+471,Nike Air Max 1 '86 OG G,Men's Golf Shoes,Nike,White/Neutral Grey/Black/University Red,152.95,152.95,GB,True,2023-03-28T07:00:00.000Z,2023-04-06T06:30:15.457Z,0.0,2023-04-16
+472,Nike Zoom Mercurial Vapor 15 Academy CR7 IC,Indoor Court Football Shoes,Nike,White/Concord/Medium Blue/Metallic Copper,79.95,79.95,GB,True,2023-02-01T13:49:00.000Z,2023-04-06T06:20:10.151Z,0.0,2023-04-16
+473,Nike Court Vision Mid,Men's Shoes,Nike Sportswear,Black/White/University Red,74.95,52.47,GB,True,2022-12-16T08:00:00.000Z,2023-04-06T06:08:29.102Z,22.480000000000004,2023-04-16
+474,Nike Court Vision Low,Men's Shoes,Nike Sportswear,Photon Dust/White/Racer Blue,69.95,69.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-06T11:13:17.890Z,0.0,2023-04-16
+475,Nike React Infinity 3 By You,Custom Men's Road Running Shoes,NIKEiD,White/Black/White/Multi-Colour,179.95,179.95,GB,True,2023-03-13T16:00:00.000Z,2023-04-06T06:53:30.551Z,0.0,2023-04-16
+476,Nike Moc Flow x UNDERCOVER,Men's Shoes,NikeLab,Ale Brown/Light Beige Chalk/Team Royal,144.95,144.95,GB,True,2023-03-29T16:17:00.000Z,2023-04-12T14:44:13.017Z,0.0,2023-04-16
+477,Nike Mercurial Superfly 9 Club IC,Indoor Court Football Shoes,Nike,White/Pink Blast/Baltic Blue,64.95,64.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:01:13.231Z,0.0,2023-04-16
+478,Nike SB Nyjah 3 PRM,Skate Shoes,Nike,Summit White/Tour Yellow/Lucky Green/Black,99.95,59.97,GB,True,2022-12-15T08:00:00.000Z,2023-04-06T22:26:22.131Z,39.980000000000004,2023-04-16
+479,Jordan Play,Men's Slides,Jordan,True Blue/White,37.95,37.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:25:50.897Z,0.0,2023-04-16
+480,Nike Waffle Debut,Men's Shoes,Nike Sportswear,Grey Fog/Light Smoke Grey/White/White,69.95,69.95,GB,True,2023-02-01T08:17:00.000Z,2023-04-12T18:20:39.584Z,0.0,2023-04-16
+481,Nike Pegasus Trail 4,Men's Trail-Running Shoes,Nike,Dark Pony/Picante Red/Rush Fuchsia/Sail,124.95,124.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:51:44.274Z,0.0,2023-04-16
+482,Nike Air Max Plus OG,Men's Shoes,Nike Sportswear,Varsity Red/Raspberry Red/Black/Gold,169.95,169.95,GB,True,2023-03-16T08:00:00.000Z,2023-04-11T22:30:19.289Z,0.0,2023-04-16
+483,Nike Air Max 95 Ultra,Men's Shoes,Nike Sportswear,White/Wolf Grey/Photon Dust,169.95,169.95,GB,True,2023-04-04T07:00:00.000Z,2023-04-06T06:56:48.533Z,0.0,2023-04-16
+484,Nike Air VaporMax 2021 Flyknit SE,Men's Shoes,Nike Sportswear,White/Yellow Ochre/University Red/Old Royal,204.95,204.95,GB,True,2023-02-23T08:00:00.000Z,2023-04-06T22:14:34.009Z,0.0,2023-04-16
+485,Nike Gripknit Phantom GX Elite Dynamic Fit FG SE,Firm-Ground Football Boot,Nike,Citron Tint/Burgundy Crush,259.95,259.95,GB,True,2023-02-06T08:00:00.000Z,2023-04-06T06:55:42.072Z,0.0,2023-04-16
+486,ISPA Mindbody,Men's Shoes,NikeLab,Olive Grey/Iron Grey/Wheatgrass/Palm Green,164.95,164.95,GB,True,2023-02-15T17:34:00.000Z,2023-04-06T06:00:08.452Z,0.0,2023-04-16
+487,Nike Air Max 95,Men's Shoes,Nike Sportswear,Black/Anthracite/Metallic Silver,179.95,179.95,GB,True,2023-04-12T14:15:00.000Z,2023-04-12T14:23:17.641Z,0.0,2023-04-16
+488,Nike Zoom Mercurial Vapor 15 Elite AG-Pro,Artificial-Grass Football Boot,Nike,Metallic Copper/Metallic Copper,234.95,234.95,GB,True,2022-11-07T08:00:00.000Z,2023-04-06T06:27:34.345Z,0.0,2023-04-16
+489,Jordan Why Not .6,Men's Shoes,Jordan,Black/White/Metallic Gold,134.95,134.95,GB,True,2023-03-27T07:00:00.000Z,2023-04-10T04:27:27.892Z,0.0,2023-04-16
+490,Air Jordan 1 Hi FlyEase,Men's Shoes,Jordan,Black/White/Wild Berry,164.95,164.95,GB,True,2023-01-23T00:00:00.000Z,2023-04-06T05:37:46.564Z,0.0,2023-04-16
+491,LeBron XX,Basketball Shoes,Nike,Gym Red/Burgundy Crush/Black/University Red,199.95,199.95,GB,True,2023-02-09T08:00:00.000Z,2023-04-12T11:47:02.125Z,0.0,2023-04-16
+492,LeBron XX,Basketball Shoes,Nike,Black/White/Pure Platinum/Metallic Gold,179.95,179.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-08T01:43:59.805Z,0.0,2023-04-16
+493,Air Jordan 7 Retro SE,Men's Shoes,Jordan,Shimmer/Sapphire/Black,189.95,189.95,GB,True,2022-09-01T05:00:00.000Z,2023-04-06T05:59:38.576Z,0.0,2023-04-16
+494,Nike SB Zoom Blazer Mid Premium Plus,Skate Shoes,Nike,Pilgrim/Phantom,99.95,59.97,GB,True,2022-11-12T08:00:00.000Z,2023-04-06T22:30:37.105Z,39.980000000000004,2023-04-16
+495,Nike Air Force 1 '07 LV8 EMB,Men's Shoes,Nike Sportswear,Summit White/Blue Whisper/Football Grey/White,114.95,114.95,GB,True,2023-02-14T08:00:00.000Z,2023-04-12T14:42:00.347Z,0.0,2023-04-16
+496,Nike LeBron 9 Low,Men's Shoes,Nike Sportswear,New Green/Action Red/White/Black,169.95,169.95,GB,True,2022-09-20T07:18:00.000Z,2023-04-06T06:22:26.539Z,0.0,2023-04-16
+497,Nike Mercurial Vapor 15 Club TF,Turf Football Shoes,Nike,White/Pink Blast/Baltic Blue,54.95,54.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:00:43.875Z,0.0,2023-04-16
+498,Nike Air More Uptempo,Men's Slides,Nike Sportswear,Black/Black/Clear/White,79.95,79.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-16T09:27:05.173Z,0.0,2023-04-16
+499,Nike Zoom Vomero 5 SP,Men's Shoes,NikeLab,Anthracite/Black/Wolf Grey/Anthracite,144.95,144.95,GB,True,2023-01-23T15:43:00.000Z,2023-04-07T04:37:27.956Z,0.0,2023-04-16
+500,Jordan Series Mid,Men's Shoes,Jordan,Cool Grey/Sail/University Red/Black,89.95,53.97,GB,True,2023-01-09T08:00:00.000Z,2023-04-12T14:43:09.407Z,35.980000000000004,2023-04-16
+501,Air Jordan 11 Retro Low IE,Men's Shoes,Jordan,Light Orewood Brown/White/Cement Grey/Neutral Grey,164.95,82.47,GB,True,2022-09-19T11:49:00.000Z,2023-04-15T07:58:32.449Z,82.47999999999999,2023-04-16
+502,Nike Air Max Plus Utility,Men's Shoes,Nike Sportswear,Medium Olive/Black,179.95,179.95,GB,True,2023-04-10T14:00:00.000Z,2023-04-12T12:37:27.069Z,0.0,2023-04-16
+503,Nike Air Max 270 G,Golf Shoe,Nike,White/Pure Platinum/Black,134.95,134.95,GB,True,2020-12-13T23:00:00.000Z,2023-04-13T15:03:01.683Z,0.0,2023-04-16
+504,Nike Air Max 90,Men's Shoes,Nike Sportswear,Black/Cool Grey/White,144.95,86.97,GB,True,2022-12-26T08:00:00.000Z,2023-04-08T05:43:01.224Z,57.97999999999999,2023-04-16
+505,Nike Air Humara,Men's Shoes,Nike Sportswear,Silver/Midnight Navy/Black/Desert Bronze,144.95,144.95,GB,True,2023-03-29T16:23:00.000Z,2023-04-14T07:45:52.253Z,0.0,2023-04-16
+506,Nike Dunk High Retro,Men's Shoes,Nike Sportswear,White/Light Iron Ore/Sand Drift/Pure Platinum,114.95,114.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T06:56:19.562Z,0.0,2023-04-16
+507,Nike Air Force 1 '07 Fresh,Men's Shoes,Nike Sportswear,Black/Black/Black/Anthracite,124.95,124.95,GB,True,2022-10-07T13:10:00.000Z,2023-04-15T07:32:12.867Z,0.0,2023-04-16
+508,Nike Zoom Rival,Athletics Multi-Event Spikes,Nike,White/Metallic Silver/Pure Platinum/Black,69.95,69.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T05:50:07.021Z,0.0,2023-04-16
+509,Nike Air Max 90 LTR,Men's Shoes,Nike Sportswear,Pearl Pink/Baroque Brown/Picante Red/Baroque Brown,134.95,134.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-06T06:54:18.245Z,0.0,2023-04-16
+510,Nike SB Force 58,Skate Shoes,Nike,Pink Bloom/Phantom/Gum Yellow/Mineral Teal,69.95,69.95,GB,True,2023-04-11T07:00:00.000Z,2023-04-11T07:53:34.540Z,0.0,2023-04-16
+511,Nike Zoom Mercurial Vapor 15 Academy IC,Indoor Court Football Shoes,Nike,White/Pink Blast/Baltic Blue,74.95,74.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-16T09:51:17.956Z,0.0,2023-04-16
+512,Nike Air Monarch IV,Men's Training Shoe,Nike,White/Cool Grey/Anthracite/White,69.95,69.95,GB,True,2022-07-01T10:26:00.000Z,2023-04-13T15:43:42.381Z,0.0,2023-04-16
+513,Nike React Infinity 3 Premium,Men's Road Running Shoes,Nike,Phantom/Oatmeal/Citron Pulse/Ale Brown,164.95,164.95,GB,True,2023-02-02T08:00:00.000Z,2023-04-13T12:32:01.702Z,0.0,2023-04-16
+514,Jordan 6 Rings,Men's Shoes,Jordan,White/Black/University Red,164.95,164.95,GB,True,2023-03-22T08:00:00.000Z,2023-04-09T08:13:10.786Z,0.0,2023-04-16
+515,Nike Blazer Mid '77 SE,Men's Shoes,Nike Sportswear,Summit White/Phantom/Mica Green/White,99.95,99.95,GB,True,2023-02-14T08:00:00.000Z,2023-04-11T22:23:47.397Z,0.0,2023-04-16
+516,NikeCourt Air Zoom Pro,Men's Clay Court Tennis Shoes,Nike,Gridiron/Mineral Teal/Bright Cactus/Sail,99.95,99.95,GB,True,2023-03-31T07:00:00.000Z,2023-04-06T06:32:21.875Z,0.0,2023-04-16
+517,Jordan Delta 3 Low,Men's Shoes,Jordan,White/Barely Green/Mint Foam/Wolf Grey,124.95,74.97,GB,True,2023-01-16T08:00:00.000Z,2023-04-12T14:43:27.753Z,49.980000000000004,2023-04-16
+518,Nike Air Max 97,Men's Shoes,Nike Sportswear,Black/Picante Red/Metallic Silver/Wolf Grey,169.95,118.97,GB,True,2023-01-12T09:00:00.000Z,2023-04-12T14:42:01.703Z,50.97999999999999,2023-04-16
+519,Nike Air Tuned Max,Men's Shoe,Nike Sportswear,Black/Black/Metallic Silver/Black,154.95,84.97,GB,False,2021-11-01T08:00:00.000Z,2023-04-06T05:50:30.941Z,69.97999999999999,2023-04-16
+520,Nike Tiempo Legend 9 Academy MG,Multi-Ground Football Boot,Nike,Barely Volt/Summit White/Volt,72.95,72.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-06T05:45:27.089Z,0.0,2023-04-16
+521,Nike Offcourt,Men's Slides,Nike Sportswear,Dynamic Yellow/Paramount Blue/Green Spark/Coastal Blue,39.95,31.97,GB,True,2022-09-20T07:00:00.000Z,2023-04-06T06:41:50.744Z,7.980000000000004,2023-04-16
+522,Nike Air Max Terrascape Plus,Men's Shoes,Nike Sportswear,Light Bone/Sea Coral/Vivid Orange/Velvet Brown,179.95,179.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:25:51.471Z,0.0,2023-04-16
+523,Nike Blazer Mid '77 Vintage,Men's Shoes,Nike Sportswear,White/Coconut Milk/White/Picante Red,99.95,69.97,GB,True,2023-01-16T08:00:00.000Z,2023-04-06T05:34:01.877Z,29.980000000000004,2023-04-16
+524,Nike Dunk High Retro,Men's Shoes,Nike Sportswear,Sail/Pure Platinum/Black/White,114.95,114.95,GB,True,2022-10-24T13:45:00.000Z,2023-04-06T06:49:36.770Z,0.0,2023-04-16
+525,Nike Streakfly,Road Racing Shoes,Nike,White/Bright Crimson/Sail/Obsidian,144.95,144.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-06T22:04:26.046Z,0.0,2023-04-16
+526,Tatum 1 'St. Louis',Basketball Shoes,Jordan,White/University Blue/University Gold/University Red,109.95,109.95,GB,True,2023-04-15T07:00:00.000Z,2023-04-11T12:22:12.888Z,0.0,2023-04-16
+527,Nike Air Max 90 GTX,Men's Shoes,Nike Sportswear,Black/Cargo Khaki/Iron Grey/Tour Yellow,152.95,91.97,GB,True,2022-10-27T07:00:00.000Z,2023-04-12T14:35:11.427Z,60.97999999999999,2023-04-16
+528,Nike Phantom GX Pro Dynamic Fit FG,Firm-Ground Football Boot,Nike,Baltic Blue/White/Laser Blue/Pink Blast,144.95,144.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-13T10:01:35.640Z,0.0,2023-04-16
+529,Kyrie Low 5,Basketball Shoes,Nike,Dark Marina Blue/Black/Viotech/Pinksicle,104.95,83.97,GB,True,2023-03-01T13:27:00.000Z,2023-04-14T12:38:58.000Z,20.980000000000004,2023-04-16
+530,Nike React HyperSet LE,Indoor Court Shoes,Nike,Black/Metallic Silver/Sunset Pulse/Metallic Dark Grey,123.95,77.97,GB,True,2022-12-22T08:00:00.000Z,2023-04-06T22:22:34.894Z,45.980000000000004,2023-04-16
+531,Nike SB Blazer Low Pro GT Premium,Skate Shoes,Nike,Black/Black/Photon Dust/Safety Orange,74.95,74.95,GB,True,2022-11-01T08:00:00.000Z,2023-04-11T22:39:09.416Z,0.0,2023-04-16
+532,Air Jordan 1 Retro High OG,Shoes,Jordan,Vachetta Tan/Sail/Black,164.95,164.95,GB,True,2022-09-13T06:02:00.000Z,2023-04-15T07:52:37.138Z,0.0,2023-04-16
+533,Nike Air Max 90,Men's Shoes,Nike Sportswear,Flat Pewter/Black/Obsidian/White,134.95,134.95,GB,True,2023-04-03T07:00:00.000Z,2023-04-15T02:46:06.644Z,0.0,2023-04-16
+534,Nike Zoom Mercurial Dream Speed Superfly 9 Elite FG,Firm-Ground Football Boot,Nike,Cobalt Bliss/Fuchsia Dream/Hot Punch/Black,259.95,259.95,GB,True,2023-02-11T08:00:00.000Z,2023-04-10T05:48:16.416Z,0.0,2023-04-16
+535,Air Jordan 2 Retro,Men's Shoes,Jordan,White/Sail/Light Steel Grey/Lucky Green,169.95,169.95,GB,True,2023-01-20T14:04:00.000Z,2023-04-15T18:41:41.989Z,0.0,2023-04-16
+536,Zoom Freak 4,Basketball Shoes,Nike,Pale Vanilla/Coral Chalk,124.95,124.95,GB,True,2023-04-01T07:00:00.000Z,2023-04-12T10:42:32.457Z,0.0,2023-04-16
+537,Nike ACG Moc,Men's Shoes,NikeLab,Ocean Bliss/Black/Ocean Bliss,84.95,84.95,GB,True,2023-02-23T08:00:00.000Z,2023-04-06T06:22:29.314Z,0.0,2023-04-16
+538,Nike Air Max 95,Men's Shoes,Nike Sportswear,Black/Sequoia/Cargo Khaki/Earth,169.95,169.95,GB,True,2023-01-12T12:44:00.000Z,2023-04-11T22:28:47.941Z,0.0,2023-04-16
+539,Nike Dunk High x SOULGOODS,Men's Shoes,NikeLab,Medium Olive/Black/Multi-Colour,129.95,129.95,GB,True,2022-11-21T11:34:00.000Z,2023-04-06T06:26:10.634Z,0.0,2023-04-16
+540,Nike Dunk Low Retro SE,Men's Shoes,Nike Sportswear,Summit White/Summit White/Industrial Blue/Industrial Blue,109.95,109.95,GB,True,2023-01-23T00:00:00.000Z,2023-04-06T06:29:34.422Z,0.0,2023-04-16
+541,Nike Air Max Plus,Men's Shoes,Nike Sportswear,White/Cool Grey/Black,179.95,125.97,GB,True,2022-12-26T08:00:00.000Z,2023-04-15T07:25:24.467Z,53.97999999999999,2023-04-16
+542,Nike Air Max Flyknit Racer,Men's Shoes,Nike Sportswear,Volt/White/Sequoia/Black,152.95,152.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:24:58.362Z,0.0,2023-04-16
+543,Nike Blazer Mid Pro Club,Men's Shoes,Nike Sportswear,Light Bone/Phantom/Summit White/White,99.95,99.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T22:05:15.909Z,0.0,2023-04-16
+544,Nike SuperRep Cycle 2 Next Nature,Indoor Cycling Shoes,Nike,Iron Grey/Phantom/Black,114.95,114.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T11:34:04.150Z,0.0,2023-04-16
+545,Nike Air Max 270,Men's Shoes,Nike Sportswear,White/Midnight Navy/Psychic Blue/Chile Red,129.95,103.97,GB,True,2023-02-01T08:00:00.000Z,2023-04-11T22:09:34.288Z,25.97999999999999,2023-04-16
+546,Air Jordan XXXVII Low,Basketball Shoes,Jordan,Black/University Red/Dark Grey/Metallic Gold,164.95,164.95,GB,True,2023-03-30T07:00:00.000Z,2023-04-10T16:10:07.438Z,0.0,2023-04-16
+547,Nike Blazer Mid '77 Jumbo,Men's Shoes,Nike Sportswear,Summit White/Blackened Blue/Citron Tint/Malachite,99.95,59.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-06T06:28:17.754Z,39.980000000000004,2023-04-16
+548,NikeCourt Zoom Pro,Men's Hard Court Tennis Shoes,Nike,Obsidian/Green Glow/White/Hyper Pink,89.95,89.95,GB,True,2022-11-11T08:00:00.000Z,2023-04-13T13:42:06.804Z,0.0,2023-04-16
+549,Nike Air Force 1 Low Retro QS,Men's Shoes,Nike Sportswear,White/Classic Green/White,124.95,124.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T06:41:57.218Z,0.0,2023-04-16
+550,Nike Air Max TW SE,Men's Shoes,Nike Sportswear,Phantom/Light Bone/Light Photo Blue/Opti Yellow,152.95,152.95,GB,True,2023-04-14T07:00:00.000Z,2023-04-14T08:28:54.410Z,0.0,2023-04-16
+551,Nike Air Max Plus,Men's Shoes,Nike Sportswear,Wheatgrass/University Gold/Gum Light Brown/Black,169.95,152.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T11:13:14.971Z,16.97999999999999,2023-04-16
+552,Nike Air Max 1 '86 OG G NRG,Men's Golf Shoes,Nike,Phantom/Topaz Gold/Midwest Gold/Gridiron,169.95,169.95,GB,False,2023-03-27T14:00:00.000Z,2023-04-06T06:34:07.732Z,0.0,2023-04-16
+553,Nike Air Max 95,Men's Shoes,Nike Sportswear,Light Bone/Khaki/Dune Red/Summit White,169.95,169.95,GB,True,2022-11-09T08:00:00.000Z,2023-04-11T22:23:46.367Z,0.0,2023-04-16
+554,Nike Air Max Impact 4,Basketball Shoes,Nike,White/Sail/Copa/Black,89.95,89.95,GB,True,2023-03-22T08:00:00.000Z,2023-04-06T06:04:45.203Z,0.0,2023-04-16
+555,Nike Air Huarache,Men's Shoes,Nike Sportswear,Black/Metallic Silver/Wolf Grey,114.95,80.47,GB,True,2023-01-12T08:00:00.000Z,2023-04-06T06:53:59.073Z,34.480000000000004,2023-04-16
+556,Nike Zoom Mercurial Superfly 9 Academy AG,Artificial-Grass Football Boot,Nike,White/Pink Blast/Baltic Blue,84.95,84.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-16T09:38:44.663Z,0.0,2023-04-16
+557,Jordan 6 Rings,Men's Shoes,Jordan,Black/White/Gym Red,164.95,98.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-12T14:43:25.158Z,65.97999999999999,2023-04-16
+558,Nike P-6000,Women's Shoes,Nike Sportswear,White/Metallic Platinum/Dark Charcoal/Varsity Red,99.95,99.95,GB,True,2023-02-09T08:00:00.000Z,2023-04-13T11:34:08.430Z,0.0,2023-04-16
+559,Nike Air Zoom Victory Tour 3 NRG,Men's Golf Shoes,Nike,Phantom/Midwest Gold/Gridiron,224.95,224.95,GB,True,2023-03-29T07:00:00.000Z,2023-04-06T06:34:04.845Z,0.0,2023-04-16
+560,Nike Zoom Vomero 5,Men's Shoes,Nike Sportswear,Wheatgrass/Brown/Elemental Gold/Gold Suede,144.95,144.95,GB,True,2023-01-30T17:28:00.000Z,2023-04-06T12:49:43.931Z,0.0,2023-04-16
+561,Jordan Play,Men's Slides,Jordan,Black/Photon Dust/Off-Noir/University Red,37.95,32.47,GB,True,2023-02-01T08:17:00.000Z,2023-04-13T10:58:55.426Z,5.480000000000004,2023-04-16
+562,"Nike LeBron 2 ""Maccabi""",Men's Shoes,Nike Sportswear,White/Varsity Crimson/Metallic Gold,189.95,189.95,GB,True,2022-10-11T00:00:00.000Z,2023-04-06T05:59:54.149Z,0.0,2023-04-16
+563,NikeCourt Zoom Lite 3,Men's Hard Court Tennis Shoes,Nike,Black/White,59.95,47.97,GB,True,2021-12-17T09:01:00.000Z,2023-04-13T09:49:33.365Z,11.980000000000004,2023-04-16
+564,Nike Phantom GT2 Elite AG-Pro,Artificial-Grass Football Boot,Nike,Glacier Ice/Yellow Strike/Sunset Glow/Black,224.95,224.95,GB,True,2022-08-24T07:00:00.000Z,2023-04-12T23:30:15.142Z,0.0,2023-04-16
+565,Nike SB Zoom Nyjah 3,Skate Shoes,Nike,Game Royal/Game Royal/Game Royal/White,99.95,59.97,GB,True,2023-01-23T08:00:00.000Z,2023-04-10T15:34:23.989Z,39.980000000000004,2023-04-16
+566,Nike Dunk High Retro Premium,Men's Shoes,Nike Sportswear,Summit White/Phantom/Pink Oxford/White,114.95,68.97,GB,True,2023-02-09T00:00:00.000Z,2023-04-06T06:29:34.582Z,45.980000000000004,2023-04-16
+567,Air Jordan XXXVII,Basketball Shoes,Jordan,Black/Midnight Fog/Midas Gold/Bordeaux,169.95,101.97,GB,True,2023-01-05T08:00:00.000Z,2023-04-12T14:33:41.558Z,67.97999999999999,2023-04-16
+568,Nike Tanjun,Men's Shoes,Nike Sportswear,White/Barely Volt/Black,69.95,48.97,GB,True,2021-09-14T14:31:00.000Z,2023-04-13T11:14:58.859Z,20.980000000000004,2023-04-16
+569,Nike SB Zoom Blazer Mid Premium,Skate Shoes,Nike,Black/Black/White/Anthracite,99.95,99.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-16T09:57:39.814Z,0.0,2023-04-16
+570,Nike Zoom Metcon Turbo 2,Men's Training Shoes,Nike,Sail/Photon Dust/Citron Tint,144.95,86.97,GB,True,2023-01-16T08:00:00.000Z,2023-04-14T00:59:33.077Z,57.97999999999999,2023-04-16
+571,NikeCourt Air Zoom Vapor 9.5 Tour Premium,Men's Tennis Shoes,Nike,Black/Phantom/White,179.95,179.95,GB,True,2023-02-24T08:00:00.000Z,2023-04-06T06:31:47.235Z,0.0,2023-04-16
+572,Nike Zoom Rival SD 2,Athletics Throwing Shoes,Nike,White/Hyper Pink/Laser Orange/Black,69.95,69.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T15:57:06.578Z,0.0,2023-04-16
+573,Nike Blazer '77 Jumbo,Men's Shoes,Nike Sportswear,Sail/Hemp/Black/Cacao Wow,109.95,76.97,GB,True,2022-11-28T08:00:00.000Z,2023-04-06T06:51:41.856Z,32.980000000000004,2023-04-16
+574,The Nike Premier 3 SG-PRO Anti-Clog Traction,Soft-Ground Football Boot,Nike,Black/White,109.95,109.95,GB,True,2022-09-06T07:00:00.000Z,2023-04-14T01:20:28.400Z,0.0,2023-04-16
+575,Nike Gripknit Phantom GX Elite Dynamic Fit Fusion AG-Pro,Artificial-Grass Football Boot,Nike,Black/White/Blue Glow/Volt,249.95,249.95,GB,True,2023-03-06T08:00:00.000Z,2023-04-06T06:34:09.184Z,0.0,2023-04-16
+576,Nike E-Series AD,Men's Shoes,Nike Sportswear,Sail/Phantom/Black,72.95,65.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-11T09:23:38.516Z,6.980000000000004,2023-04-16
+577,Nike Air Max TW,Men's Shoes,Nike Sportswear,Summit White/White/Washed Teal/University Red,144.95,86.97,GB,True,2023-01-16T15:00:00.000Z,2023-04-06T22:16:06.916Z,57.97999999999999,2023-04-16
+578,Nike Air Zoom G.T. Jump,Basketball Shoes,Nike,Black/White,179.95,179.95,GB,True,2023-04-01T07:00:00.000Z,2023-04-06T05:45:09.513Z,0.0,2023-04-16
+579,Nike Infinity G,Golf Shoes,Nike,Black/White,69.95,69.95,GB,True,2022-11-01T08:00:00.000Z,2023-04-12T23:29:34.206Z,0.0,2023-04-16
+580,Nike Terminator High,Men's Shoes,Nike Sportswear,White/Sail/Cocoa/Black,124.95,124.95,GB,True,2022-11-28T12:05:00.000Z,2023-04-06T06:50:23.068Z,0.0,2023-04-16
+581,Nike Zoom Metcon Turbo 2,Men's Training Shoes,Nike,Volt/Wolf Grey/Photon Dust/Diffused Blue,144.95,144.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-14T00:59:36.731Z,0.0,2023-04-16
+582,Nike Blazer Mid '77 Jumbo,Men's Shoes,Nike Sportswear,White/White/Sail/Black,99.95,99.95,GB,True,2022-08-01T10:30:00.000Z,2023-04-13T13:23:02.520Z,0.0,2023-04-16
+583,Nike Dunk High Retro,Men's Shoe,Nike Sportswear,University Gold/White/Habanero Red/Black,109.95,109.95,GB,True,2022-12-08T14:06:00.000Z,2023-04-13T13:22:49.192Z,0.0,2023-04-16
+584,Nike SB Zoom Blazer Mid,Skate Shoes,Nike,Baroque Brown/Baroque Brown/White/Adobe,79.95,55.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-06T06:54:11.783Z,23.980000000000004,2023-04-16
+585,Nike React Tiempo Legend 9 Pro TF,Turf Football Shoe,Nike,White/Baltic Blue/Pink Blast/Black,109.95,109.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-15T07:32:16.767Z,0.0,2023-04-16
+586,Kyrie Flytrap 6,Basketball Shoes,Nike,Orange Trance/Black/Canyon Rust/Yellow Strike,84.95,59.47,GB,True,2023-02-06T08:00:00.000Z,2023-04-14T08:35:40.758Z,25.480000000000004,2023-04-16
+587,Nike MC Trainer 2,Men's Training Shoes,Nike,Iron Grey/Black/Gum Medium Brown/White,69.95,62.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T09:45:37.902Z,6.980000000000004,2023-04-16
+588,Nike Metcon 7,Training Shoes,Nike,Total Orange/Dark Smoke Grey/Clear Emerald/White,124.95,74.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T22:35:34.181Z,49.980000000000004,2023-04-16
+589,Nike Blazer Low '77 Vintage,Men's Shoes,Nike Sportswear,White/Sail/Black,89.95,89.95,GB,True,2020-06-07T22:00:00.000Z,2023-04-13T13:49:16.492Z,0.0,2023-04-16
+590,Air Max 90 LTR,Men's Shoe,Nike Sportswear,White/White/White,134.95,134.95,GB,True,2019-11-19T23:00:00.000Z,2023-04-13T14:01:42.237Z,0.0,2023-04-16
+591,NikeCourt Royale 2 Next Nature,Men's Shoes,Nike Sportswear,White/Black,64.95,64.95,GB,True,2022-08-01T07:00:00.000Z,2023-04-13T18:23:30.304Z,0.0,2023-04-16
+592,Nike Air Force 1 '07 Premium,Men's Shoes,Nike Sportswear,Team Red/Gym Red/Team Red/Sail,124.95,124.95,GB,True,2022-10-05T07:00:00.000Z,2023-04-15T07:58:20.395Z,0.0,2023-04-16
+593,Nike Air Force 1 Low Billie,Men's Shoes,NikeLab,White/White/White,114.95,114.95,GB,True,2023-03-16T12:45:00.000Z,2023-04-11T14:56:23.988Z,0.0,2023-04-16
+594,Air Jordan 13 Retro,Men's Shoes,Jordan,Black/Flint Grey/White/University Red,189.95,189.95,GB,True,2023-04-12T14:15:00.000Z,2023-04-12T15:11:21.932Z,0.0,2023-04-16
+595,Air Jordan 1 Mid SE Craft,Men's Shoes,Jordan,Sail/Fossil Stone/Celestial Gold/Taupe Haze,124.95,124.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-12T03:50:04.836Z,0.0,2023-04-16
+596,Nike Dunk Hi Retro,Men's Shoes,Nike Sportswear,White/White/Picante Red/Picante Red,109.95,65.97,GB,True,2023-01-16T00:00:00.000Z,2023-04-12T15:40:44.501Z,43.980000000000004,2023-04-16
+597,Nike Air Max SYSTM,Men's Shoes,Nike Sportswear,Black/Wolf Grey/White,89.95,53.97,GB,True,2022-08-01T07:00:00.000Z,2023-04-15T07:58:30.539Z,35.980000000000004,2023-04-16
+598,Nike Blazer Low '77 Jumbo,Men's Shoes,Nike Sportswear,White/White/Sail/Black,89.95,89.95,GB,True,2022-08-01T10:30:00.000Z,2023-04-15T07:38:46.352Z,0.0,2023-04-16
+599,Nike SB Nyjah 3,Skate Shoes,Nike,White/Summit White/Hyper Pink/Black,99.95,99.95,GB,True,2022-11-30T08:00:00.000Z,2023-04-13T14:01:46.723Z,0.0,2023-04-16
+600,Air Jordan 1 Low G,Golf Shoes,Jordan,White/Phantom/Volt/Black,114.95,114.95,GB,True,2023-04-01T07:00:00.000Z,2023-04-10T15:30:51.235Z,0.0,2023-04-16
+601,Air Jordan 9 Retro,Men's Shoes,Jordan,Black/Light Olive/Aquatone/Bright Concord,189.95,189.95,GB,True,2023-01-02T10:35:00.000Z,2023-04-06T05:38:57.546Z,0.0,2023-04-16
+602,Nike Dunk Low Retro,Men's Shoe,Nike Sportswear,White/White/Black,99.95,99.95,GB,True,2023-04-13T12:57:00.000Z,2023-04-14T02:45:07.309Z,0.0,2023-04-16
+603,Nike Air Force 1 Mid React,Men's Shoes,Nike Sportswear,Sail/Ghost Green/Glacier Blue/Black,129.95,129.95,GB,True,2022-08-16T07:00:00.000Z,2023-04-13T14:42:20.799Z,0.0,2023-04-16
+604,Jordan Break,Slides,Jordan,Black/White/University Red,29.95,29.95,GB,True,2022-09-14T07:00:00.000Z,2023-04-13T16:12:59.522Z,0.0,2023-04-16
+605,Nike Air VaporMax 2023 Flyknit,Men's Shoes,Nike Sportswear,Pure Platinum/Pure Platinum/Pure Platinum/White,204.95,204.95,GB,True,2023-04-10T07:00:00.000Z,2023-04-07T19:55:14.361Z,0.0,2023-04-16
+606,Nike High Jump Elite,Athletics Jumping Spikes,Nike,White/Hyper Pink/Laser Orange/Black,119.95,119.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-12T15:40:44.634Z,0.0,2023-04-16
+607,Nike Air Max 1 Premium,Shoes,Nike Sportswear,Baltic Blue/Gridiron/Sail/Sesame,152.95,152.95,GB,True,2023-03-10T14:27:00.000Z,2023-04-16T09:15:31.499Z,0.0,2023-04-16
+608,Nike SB Zoom Blazer Mid,Skate Shoe,Nike,Summit White/Summit White/White/Laser Orange,79.95,79.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-14T00:53:27.559Z,0.0,2023-04-16
+609,Air Jordan 1 Retro Low OG,Men's Shoes,Jordan,Black/Dark Smoke Grey/Light Smoke Grey/Fire Red,134.95,134.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-14T08:28:54.671Z,0.0,2023-04-16
+610,Tatum 1 'Zoo',Basketball Shoes,Jordan,Black/University Red/Beach/Metallic Gold,109.95,109.95,GB,True,2023-04-04T16:00:00.000Z,2023-04-11T16:45:05.751Z,0.0,2023-04-16
+611,Nike SB Ishod Wair,Skate Shoes,Nike,Flax/Flax/Gum Light Brown/Wheat,99.95,59.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-06T22:22:59.826Z,39.980000000000004,2023-04-16
+612,Nike Internationalist By You,Custom Men's Shoe,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,109.95,109.95,GB,True,2021-10-13T16:00:00.000Z,2023-04-06T05:54:32.487Z,0.0,2023-04-16
+613,Nike Air Force 1 '07,Men's Shoes,Nike Sportswear,White/Light Bone/Solar Flare/Phantom,114.95,114.95,GB,True,2022-07-13T07:00:00.000Z,2023-04-06T06:42:57.470Z,0.0,2023-04-16
+614,Jordan Play Luka,Men's Slides,Jordan,Multi-Colour/Glow,39.95,35.97,GB,True,2022-10-06T07:00:00.000Z,2023-04-13T10:01:35.497Z,3.980000000000004,2023-04-16
+615,Nike Air Max TW SE,Men's Shoes,Nike Sportswear,Summit White/Sesame/Light Photo Blue/Safety Orange,152.95,152.95,GB,True,2023-02-23T08:00:00.000Z,2023-04-12T14:42:41.176Z,0.0,2023-04-16
+616,Nike Air Force 1 React,Men's Shoes,Nike Sportswear,White/Sail/Black/White,124.95,124.95,GB,True,2022-10-11T07:00:00.000Z,2023-04-06T06:23:52.447Z,0.0,2023-04-16
+617,Nike Quest 4,Men's Road Running Shoes,Nike,Black/Dark Smoke Grey,69.95,48.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-16T05:01:52.147Z,20.980000000000004,2023-04-16
+618,Nike Air More Uptempo '96,Men's Shoes,Nike Sportswear,Dark Pony/Coconut Milk/Sail/Medium Soft Pink,164.95,164.95,GB,True,2023-02-06T15:33:00.000Z,2023-04-12T14:41:40.355Z,0.0,2023-04-16
+619,Nike Air More Uptempo '96,Men's Shoes,Nike Sportswear,Black/Racer Blue/Hyper Pink/Bright Crimson,164.95,164.95,GB,True,2023-03-06T08:00:00.000Z,2023-04-11T22:28:20.359Z,0.0,2023-04-16
+620,Nike Air Max 97,Men's Shoes,Nike Sportswear,Light Smoke Grey/Cool Grey/Black/Volt,179.95,179.95,GB,True,2023-02-27T15:00:00.000Z,2023-04-06T06:56:16.374Z,0.0,2023-04-16
+621,Nike Air Max Plus 3,Men's Shoes,Nike Sportswear,Light Smoke Grey,169.95,169.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-11T22:21:10.004Z,0.0,2023-04-16
+622,Nike Tiempo Legend 9 Academy IC,Indoor/Court Football Shoe,Nike,White/Baltic Blue/Pink Blast/Black,72.95,72.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:45:22.051Z,0.0,2023-04-16
+623,Nike Offcourt Adjust,Men's Slides,Nike Sportswear,Light Silver/Team Gold/Light Bone/Sail,39.95,39.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T06:25:36.216Z,0.0,2023-04-16
+624,Nike Air Force 1 Mid '07 QS,Men's Shoes,Nike Sportswear,Venice/Summit White,124.95,124.95,GB,True,2022-08-01T06:38:00.000Z,2023-04-06T06:04:36.898Z,0.0,2023-04-16
+625,Nike React HyperSet LE,Indoor Court Shoes,Nike,White/Bright Crimson/Pink Blast/Black,123.95,123.95,GB,True,2023-04-05T07:00:00.000Z,2023-04-06T06:00:10.088Z,0.0,2023-04-16
+626,Air Jordan 2 Retro,Men's Shoes,Jordan,White/Black/Varsity Red,179.95,179.95,GB,True,2022-12-19T11:56:00.000Z,2023-04-06T06:43:04.451Z,0.0,2023-04-16
+627,Nike Phantom GX Club Dynamic Fit MG,Multi-ground Football Boots,Nike,Baltic Blue/White/Laser Blue/Pink Blast,64.95,64.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:56:41.896Z,0.0,2023-04-16
+628,Nike Air Max 95 QS,Men's Shoes,Nike Sportswear,Summit White/Cool Grey/Wolf Grey/Light Bone,164.95,164.95,GB,True,2022-08-19T07:44:00.000Z,2023-04-06T06:31:25.216Z,0.0,2023-04-16
+629,LeBron XX 'Stocking Stuffer',Basketball Shoes,Nike,Green Apple/University Red/Bright Crimson/Reflect Silver,179.95,179.95,GB,True,2022-12-20T08:12:00.000Z,2023-04-06T06:56:52.509Z,0.0,2023-04-16
+630,Nike Air Zoom Flight 95,Men's Shoes,Nike Sportswear,Black/Ale Brown/Summit White/Valerian Blue,152.95,152.95,GB,True,2022-10-10T07:00:00.000Z,2023-04-15T08:05:44.074Z,0.0,2023-04-16
+631,Nike Air Max Flyknit Racer Next Nature,Men's Shoes,Nike Sportswear,Black/Anthracite/Black/Black,152.95,152.95,GB,True,2022-08-01T09:02:00.000Z,2023-04-16T05:30:03.543Z,0.0,2023-04-16
+632,Nike Air Max 1 Premium,Men's Shoes,Nike Sportswear,Summit White/Dark Atomic Teal/Sail/Black,164.95,164.95,GB,True,2023-03-02T12:30:00.000Z,2023-04-06T06:51:51.645Z,0.0,2023-04-16
+633,Nike Manoa Leather,Men's Boot,Nike Sportswear,Black/Black/Black,99.95,99.95,GB,True,2020-10-09T08:10:00.000Z,2023-04-13T15:56:31.473Z,0.0,2023-04-16
+634,Jordan Jumpman Pro,Men's Shoes,Jordan,Black/Metallic Silver/White,129.95,77.97,GB,True,2022-11-07T08:00:00.000Z,2023-04-12T14:32:10.395Z,51.97999999999999,2023-04-16
+635,Nike Air More Uptempo '96,Men's Shoes,Nike Sportswear,Black/Multi-Colour/Cobalt Bliss/White,164.95,164.95,GB,True,2023-02-18T08:00:00.000Z,2023-04-12T14:43:24.000Z,0.0,2023-04-16
+636,Air Jordan Legacy 312 Low,Men's Shoes,Jordan,Sail/White/Gym Red/Black,134.95,134.95,GB,True,2023-04-01T07:00:00.000Z,2023-04-16T08:39:06.846Z,0.0,2023-04-16
+637,Nike Air Max TW,Men's Shoes,Nike Sportswear,White/Light Lemon Twist/Pure Platinum/Midnight Navy,144.95,101.47,GB,True,2022-12-19T08:00:00.000Z,2023-04-16T10:15:59.377Z,43.47999999999999,2023-04-16
+638,Nike Tiempo Legend 9 Academy IC,Indoor/Court Football Shoe,Nike,Black/Anthracite/Metallic Gold/Black,69.95,69.95,GB,True,2023-02-01T13:49:00.000Z,2023-04-07T09:24:49.859Z,0.0,2023-04-16
+639,Nike SB Zoom Blazer Low Pro GT,Skate Shoes,Nike,White/White/White/Black,74.95,52.47,GB,True,2022-05-30T09:46:00.000Z,2023-04-06T22:22:22.059Z,22.480000000000004,2023-04-16
+640,Nike Zoom Mercurial Superfly 9 Academy TF,Turf Football Shoes,Nike,White/Pink Blast/Baltic Blue,84.95,84.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:01:05.299Z,0.0,2023-04-16
+641,Nike Zoom Mercurial Dream Speed Vapor 15 Elite FG,Firm-Ground Football Boot,Nike,Cobalt Bliss/Fuchsia Dream/Hot Punch/Black,244.95,244.95,GB,True,2023-02-11T08:00:00.000Z,2023-04-11T21:05:25.014Z,0.0,2023-04-16
+642,Nike Air Flight Lite Mid,Men's Shoes,Nike Sportswear,White/Lemon/Black/White,119.95,83.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-12T14:42:20.184Z,35.980000000000004,2023-04-16
+643,Nike Wearallday,Men's Shoe,Nike Sportswear,Black/White,69.95,38.97,GB,True,2020-06-30T22:00:00.000Z,2023-04-12T14:32:19.515Z,30.980000000000004,2023-04-16
+644,Nike High Jump Elite,Athletics Jumping Spikes,Nike,White/Black/Black,112.95,96.47,GB,True,2023-02-01T08:17:00.000Z,2023-04-06T06:05:46.116Z,16.480000000000004,2023-04-16
+645,Nike Air Max 1 Premium 2,Shoes,Nike Sportswear,Soft Grey/Thunder Grey/Coconut Milk/Neutral Grey,152.95,152.95,GB,True,2023-02-15T17:34:00.000Z,2023-04-06T06:56:07.856Z,0.0,2023-04-16
+646,Nike Gripknit Phantom GX Elite Fusion SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,Black/White/Blue Glow/Volt,244.95,244.95,GB,True,2023-03-06T08:00:00.000Z,2023-04-06T06:56:10.469Z,0.0,2023-04-16
+647,Air Jordan 1 Low,Men's Shoes,Jordan,Palomino/White/Wild Berry,109.95,109.95,GB,True,2023-01-23T00:00:00.000Z,2023-04-16T12:43:34.012Z,0.0,2023-04-16
+648,KD15,Basketball Shoes,Nike,White/Volt/Photon Dust/Black,134.95,134.95,GB,True,2023-04-01T07:00:00.000Z,2023-04-12T14:43:07.786Z,0.0,2023-04-16
+649,NikeCourt Zoom Lite 3,Men's Hard Court Tennis Shoes,Nike,White/Black,59.95,50.97,GB,True,2021-12-20T09:04:00.000Z,2023-04-06T22:22:27.263Z,8.980000000000004,2023-04-16
+650,Nike Air Max 270,Men's Shoe,Nike Sportswear,White/Volt/Black,144.95,144.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-06T05:49:04.624Z,0.0,2023-04-16
+651,Nike Air Max 90 SE,Men's Shoes,Nike Sportswear,Summit White/Sesame/Lemon Wash/Safety Orange,144.95,144.95,GB,True,2023-02-23T08:00:00.000Z,2023-04-06T06:51:36.463Z,0.0,2023-04-16
+652,LeBron NXXT Gen,Basketball Shoes,Nike,Wolf Grey/Hyper Royal,152.95,152.95,GB,True,2023-03-01T08:00:00.000Z,2023-04-16T05:49:25.537Z,0.0,2023-04-16
+653,Nike Air Pegasus '89,Men's Shoes,Nike Sportswear,White/Photon Dust/Racer Blue,109.95,109.95,GB,True,2023-04-04T07:00:00.000Z,2023-04-06T06:57:36.210Z,0.0,2023-04-16
+654,Nike Triple Jump Elite 2,Athletics Jumping Spikes,Nike,White/Laser Orange/Hyper Pink/Black,124.95,99.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-06T05:32:09.979Z,24.980000000000004,2023-04-16
+655,Nike Air Max Flyknit Racer,Men's Shoes,Nike Sportswear,Black/White,152.95,107.47,GB,True,2022-08-01T09:02:00.000Z,2023-04-15T07:58:32.788Z,45.47999999999999,2023-04-16
+656,Nike Air Max Dawn,Men's Shoes,Nike Sportswear,Grey Fog/Black/Gum Light Brown/Summit White,109.95,87.97,GB,True,2023-03-01T08:00:00.000Z,2023-04-06T11:13:11.657Z,21.980000000000004,2023-04-16
+657,Air Jordan 6 Retro,Men's Shoes,Jordan,White/Cool Grey/Medium Grey,189.95,189.95,GB,True,2023-02-15T17:34:00.000Z,2023-04-06T05:38:12.842Z,0.0,2023-04-16
+658,Air Jordan 1 Mid SE,Men's Shoes,Jordan,Black/White/Dark Concord,124.95,124.95,GB,False,2023-02-20T15:00:00.000Z,2023-04-14T14:37:12.558Z,0.0,2023-04-16
+659,Air Jordan XXXVII,Basketball Shoes,Jordan,Black/Club Purple/Dark Charcoal/True Red,167.95,100.97,GB,True,2023-02-01T08:17:00.000Z,2023-04-10T10:24:43.214Z,66.97999999999999,2023-04-16
+660,Air Jordan 1 Zoom CMFT 2,Men's Shoes,Jordan,Black/Cement Grey/White/Fire Red,144.95,144.95,GB,True,2023-01-27T00:00:00.000Z,2023-04-09T15:23:09.918Z,0.0,2023-04-16
+661,Nike Phantom GX Academy Dynamic Fit MG By You,Custom Multi-Ground Football Boot,NIKEiD,Multi-Colour/Multi-Colour/Multi-Colour,112.95,112.95,GB,True,2023-01-31T17:00:00.000Z,2023-04-06T06:44:41.368Z,0.0,2023-04-16
+662,Nike Air Max 95,Men's Shoes,Nike Sportswear,Black/Iron Grey/Cool Grey/Volt,179.95,179.95,GB,True,2023-02-27T15:00:00.000Z,2023-04-06T06:56:19.147Z,0.0,2023-04-16
+663,Nike Air Max 95 QS,Men's Shoes,Nike Sportswear,Team Red/University Red/Coral Chalk/Summit White,164.95,164.95,GB,True,2022-08-19T07:44:00.000Z,2023-04-06T06:04:56.407Z,0.0,2023-04-16
+664,Air Jordan 1 Mid,Men's Shoes,Jordan,Palomino/Wild Berry/White,114.95,114.95,GB,True,2023-01-23T00:00:00.000Z,2023-04-16T12:44:10.464Z,0.0,2023-04-16
+665,Nike Phantom GX Club MG,Multi-ground Football Boots,Nike,Black/Dark Smoke Grey/Total Orange/Summit White,54.95,54.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T05:57:09.163Z,0.0,2023-04-16
+666,Nike Revolution 6 FlyEase Next Nature,Men's Easy On/Off Road Running Shoes,Nike,Black/Iron Grey/White,59.95,59.95,GB,True,2021-09-14T14:31:00.000Z,2023-04-14T22:40:04.532Z,0.0,2023-04-16
+667,Nike Gripknit Phantom GX Elite Dynamic Fit AG By You,Custom Artificial-Grass Football Boot,NIKEiD,Multi-Colour/Multi-Colour,279.95,279.95,GB,True,2023-01-17T17:00:00.000Z,2023-04-06T06:44:41.966Z,0.0,2023-04-16
+668,Nike Zoom Mercurial Superfly 9 Pro FG,Firm-Ground Football Boot,Nike,White/Pink Blast/Indigo Haze/Baltic Blue,144.95,144.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:00:54.975Z,0.0,2023-04-16
+669,Nike Zoom Mercurial Superfly 9 Elite FG,Firm-Ground Football Boot,Nike,Metallic Copper/Metallic Copper,249.95,149.97,GB,False,2022-11-01T08:00:00.000Z,2023-04-15T07:58:23.545Z,99.97999999999999,2023-04-16
+670,Nike Zoom Mercurial Vapor 15 Pro FG,Firm-Ground Football Boot,Nike,White/Pink Blast/Indigo Haze/Baltic Blue,134.95,134.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:00:03.696Z,0.0,2023-04-16
+671,Nike Gripknit Phantom GX Elite FG SE,Firm-Ground Football Boot,Nike,Citron Tint/Burgundy Crush,244.95,244.95,GB,True,2023-02-06T08:00:00.000Z,2023-04-06T06:55:42.208Z,0.0,2023-04-16
+672,Nike Air Max 95 By You,Custom Men's Shoe,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,179.95,179.95,GB,True,2022-06-07T16:00:00.000Z,2023-04-06T06:04:53.446Z,0.0,2023-04-16
+673,Nike Infinity Pro 2,Men's Golf Shoes,Nike,Phantom/Bright Crimson/White/Midnight Navy,114.95,114.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-06T22:12:48.825Z,0.0,2023-04-16
+674,Nike Metcon 8 By You,Custom Men's Training Shoes,NIKEiD,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,152.95,152.95,GB,True,2022-07-18T16:00:00.000Z,2023-04-06T06:45:22.746Z,0.0,2023-04-16
+675,Nike Revolution 6 Next Nature,Men's Road Running Shoes,Nike,Midnight Navy/Obsidian/Ashen Slate/White,59.95,59.95,GB,True,2021-09-30T22:00:00.000Z,2023-04-15T19:07:06.704Z,0.0,2023-04-16
+676,Nike Zoom Superfly Elite 2,Athletics Sprinting Spikes,Nike,Hyper Pink/Laser Orange/Black,159.95,159.95,GB,True,2023-02-06T08:00:00.000Z,2023-04-06T21:13:35.288Z,0.0,2023-04-16
+677,Jumpman Two Trey,Men's Shoes,Jordan,White/Black/Game Royal,134.95,134.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-15T20:56:02.665Z,0.0,2023-04-16
+678,Nike Metcon 8 AMP,Men's Training Shoes,Nike,Deep Purple/Barely Volt/Blackened Blue/Baltic Blue,134.95,134.95,GB,True,2023-01-09T08:00:00.000Z,2023-04-11T21:12:45.661Z,0.0,2023-04-16
+679,NikeCourt Air Zoom NXT,Men's Clay Court Tennis Shoes,Nike,Mineral Teal/Gridiron/Bright Cactus/Sail,144.95,144.95,GB,True,2023-03-24T08:00:00.000Z,2023-04-06T06:32:19.586Z,0.0,2023-04-16
+680,NikeCourt Zoom Vapor Cage 4 Rafa,Men's Hard Court Tennis Shoes,Nike,Baltic Blue/Green Abyss/White/Vivid Orange,144.95,144.95,GB,True,2023-01-12T08:00:00.000Z,2023-04-13T09:20:56.411Z,0.0,2023-04-16
+681,ACG Air Deschutz+,Sandals,NikeLab,Ashen Slate/Ashen Slate/Black/Hemp,69.95,69.95,GB,False,2022-05-13T06:42:00.000Z,2023-04-15T08:05:42.519Z,0.0,2023-04-16
+682,Nike Air Huarache Premium,Men's Shoes,Nike Sportswear,Sail/Black/White/Hemp,124.95,124.95,GB,True,2023-01-30T08:00:00.000Z,2023-04-13T09:42:55.592Z,0.0,2023-04-16
+683,Nike Dunk High Retro,Men's Shoes,Nike Sportswear,White/University Red/Sail/Game Royal,114.95,68.97,GB,True,2022-07-11T08:27:00.000Z,2023-04-13T15:56:30.774Z,45.980000000000004,2023-04-16
+684,NikeCourt Air Zoom Vapor AJ3,Men's Hard Court Tennis Shoes,Nike,White/Black/Dark Grey/Racer Blue,199.95,199.95,GB,True,2023-04-14T07:00:00.000Z,2023-04-14T14:46:40.881Z,0.0,2023-04-16
+685,Nike Zoom Mercurial Dream Speed Vapor 15 Academy TF,Turf Football Shoes,Nike,Cobalt Bliss/Fuchsia Dream/Hot Punch/Black,79.95,79.95,GB,True,2023-02-16T08:00:00.000Z,2023-04-06T06:31:32.394Z,0.0,2023-04-16
+686,Nike Tiempo Legend 9 Elite FG,Firm-Ground Football Boot,Nike,Black/Summit White/Light Photo Blue/Dark Smoke Grey,214.95,214.95,GB,True,2022-12-28T08:00:00.000Z,2023-04-13T11:58:58.181Z,0.0,2023-04-16
+687,Nike Air Zoom Victory,Athletics Distance Spikes,Nike,Hyper Pink/Laser Orange/Black,224.95,224.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-13T11:33:57.792Z,0.0,2023-04-16
+688,Nike Air Max 90 GTX,Men's Shoes,Nike Sportswear,Anthracite/Obsidian/Cool Grey/Pure Platinum,152.95,152.95,GB,True,2022-12-16T08:00:00.000Z,2023-04-13T14:02:26.425Z,0.0,2023-04-16
+689,Nike Blazer Low '77 Jumbo SE,Men's Shoes,Nike Sportswear,Light Smoke Grey/Photon Dust/Anthracite/Sail,89.95,89.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-13T12:25:41.825Z,0.0,2023-04-16
+690,Nike Air Max 97,Men's Shoes,Nike Sportswear,Iron Grey/White/Black/Yellow Strike,169.95,169.95,GB,True,2022-11-28T08:00:00.000Z,2023-04-13T16:19:50.213Z,0.0,2023-04-16
+691,Jordan Break,Slides,Jordan,Black/White,29.95,26.97,GB,True,2020-01-01T08:00:00.000Z,2023-04-07T15:14:57.370Z,2.9800000000000004,2023-04-16
+692,Nike ZoomX Dragonfly,Athletics Distance Spikes,Nike,Hyper Pink/Laser Orange/Black,159.95,159.95,GB,True,2023-02-14T08:00:00.000Z,2023-04-06T05:39:29.055Z,0.0,2023-04-16
+693,Nike Air Trainer 1,Men's Shoes,Nike Sportswear,Dark Pony/Coconut Milk/Sail/Medium Soft Pink,114.95,114.95,GB,True,2023-02-09T00:00:00.000Z,2023-04-12T14:34:15.050Z,0.0,2023-04-16
+694,Nike SB Nyjah 3,Skate Shoes,Nike,Black/Black/Summit White/White,99.95,59.97,GB,True,2022-12-15T08:00:00.000Z,2023-04-10T15:33:24.922Z,39.980000000000004,2023-04-16
+695,Nike Air Force 1 Low Retro,Men's Shoes,Nike Sportswear,White/White/White,114.95,114.95,GB,True,2023-03-24T09:36:00.000Z,2023-04-11T15:40:43.894Z,0.0,2023-04-16
+696,Nike Free Run 5.0 Next Nature Premium,Men's Road Running Shoes,Nike,Sail/Fuchsia Dream/Sand Drift/Ale Brown,114.95,114.95,GB,True,2023-02-02T08:00:00.000Z,2023-04-14T22:31:25.098Z,0.0,2023-04-16
+697,NikeCourt Zoom Pro,Men's Hard Court Tennis Shoes,Nike,Black/White,89.95,44.97,GB,True,2022-04-04T07:00:00.000Z,2023-04-06T05:59:03.710Z,44.980000000000004,2023-04-16
+698,Air Jordan 1 Low SE Craft,Men's Shoes,Jordan,Taupe Haze/Celestial Gold/Fossil Stone/Mint Foam,114.95,114.95,GB,True,2023-01-23T15:00:00.000Z,2023-04-15T18:28:05.579Z,0.0,2023-04-16
+699,Nike Zoom Mercurial Vapor 15 Pro TF,Turf Football Shoes,Nike,White/Pink Blast/Baltic Blue,114.95,114.95,GB,True,2023-01-19T08:00:00.000Z,2023-04-06T06:00:42.916Z,0.0,2023-04-16
+700,Nike React Infinity 3 By You,Custom Men's Road Running Shoes,NIKEiD,White/Black/White/Multi-Colour,179.95,179.95,GB,True,2023-03-13T16:00:00.000Z,2023-04-06T06:53:30.413Z,0.0,2023-04-16
+701,Roshe G Next Nature,Men's Golf Shoes,Nike,Ocean Bliss/Mineral Teal/Citron Tint/White,89.95,89.95,GB,True,2023-01-23T08:00:00.000Z,2023-04-13T12:51:10.082Z,0.0,2023-04-16
+702,Nike Air Max 95,Men's Shoes,Nike Sportswear,Iron Grey/Volt/Black/White,169.95,169.95,GB,True,2022-12-21T08:00:00.000Z,2023-04-13T16:12:39.248Z,0.0,2023-04-16
+703,Nike Pegasus Trail 4 GORE-TEX,Men's Waterproof Trail-Running Shoes,Nike,Diffused Taupe/Dark Pony/Sail/Picante Red,144.95,144.95,GB,True,2023-04-13T07:00:00.000Z,2023-04-15T17:51:37.653Z,0.0,2023-04-16
+704,Nike Zegama,Men's Trail-Running Shoes,Nike,Mineral Teal/Wolf Grey/Racer Blue/Obsidian,144.95,115.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-16T02:43:41.243Z,28.97999999999999,2023-04-16
+705,Jordan Series Mid,Men's Shoes,Jordan,Sail/White/Gum Light Brown/Black,89.95,62.97,GB,True,2023-01-03T08:00:00.000Z,2023-04-12T14:42:02.441Z,26.980000000000004,2023-04-16
+706,Nike Dunk High 85,Men's Shoes,Nike Sportswear,Summit White/University Red/Coconut Milk/Barely Rose,124.95,124.95,GB,True,2022-09-20T14:45:00.000Z,2023-04-06T06:25:06.281Z,0.0,2023-04-16
+707,Nike Zoom Mamba 6,Athletics Distance Spikes,Nike,White/Metallic Silver/Black,124.95,124.95,GB,True,2023-02-06T08:00:00.000Z,2023-04-06T06:26:31.498Z,0.0,2023-04-16
+708,Nike Air Force 1 Low Retro,Men's Shoes,Nike Sportswear,White/Gum Yellow/Metallic Gold/Pink,134.95,80.97,GB,True,2022-09-27T11:23:00.000Z,2023-04-11T22:21:58.092Z,53.97999999999999,2023-04-16
+709,Nike Air Max SYSTM,Men's Shoes,Nike Sportswear,Black/White/University Red,99.95,69.97,GB,True,2022-12-16T08:00:00.000Z,2023-04-14T23:23:32.570Z,29.980000000000004,2023-04-16
+710,Nike Air Trainer 1,Men's Shoes,Nike Sportswear,Limestone/Ale Brown/White/Valerian Blue,114.95,114.95,GB,True,2022-10-13T00:00:00.000Z,2023-04-06T06:04:56.565Z,0.0,2023-04-16
+711,Air Jordan 1 Low SE,Men's Shoes,Jordan,Black/White/Iced Lilac,104.95,104.95,GB,True,2023-02-20T00:00:00.000Z,2023-04-09T15:23:06.820Z,0.0,2023-04-16
+712,Nike ACG Lowcate,Shoes,NikeLab,Wolf Grey/Grey Fog/Summit White/Navy,109.95,109.95,GB,True,2022-09-20T14:45:00.000Z,2023-04-13T09:36:33.751Z,0.0,2023-04-16
+713,Nike Dunk High By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-11-01T16:00:00.000Z,2023-04-10T20:06:33.254Z,0.0,2023-04-16
+714,Nike Dunk Low Unlocked By You,Custom Men's Shoes,Nike Sportswear,Multi-Colour/Multi-Colour/Multi-Colour/Multi-Colour,134.95,134.95,GB,True,2022-07-11T16:00:00.000Z,2023-04-06T06:47:24.740Z,0.0,2023-04-16
+715,Air Jordan 1 Mid,Men's Shoes,Jordan,Black/White/Fire Red,114.95,114.95,GB,True,2023-01-02T08:44:00.000Z,2023-04-16T12:43:16.585Z,0.0,2023-04-16
+716,Nike Blazer Low '77 Jumbo SE,Men's Shoes,Nike Sportswear,Summit White/Midnight Navy/Phantom/Summit White,89.95,62.97,GB,True,2023-01-16T08:00:00.000Z,2023-04-06T06:53:40.203Z,26.980000000000004,2023-04-16
+717,Nike Structure 24,Men's Road Running Shoes,Nike,Midnight Navy/Black/White/White,114.95,114.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-06T22:02:15.791Z,0.0,2023-04-16
+718,Nike P-6000,Women's Shoes,Nike Sportswear,White/Metallic Platinum/Black/Opti Yellow,99.95,99.95,GB,True,2023-02-09T08:00:00.000Z,2023-04-06T22:29:40.751Z,0.0,2023-04-16
+719,Nike Pegasus 39 Shield,Men's Weatherised Road Running Shoes,Nike,Black/Dark Smoke Grey/Volt/White,119.95,71.97,GB,True,2022-09-23T07:00:00.000Z,2023-04-07T01:57:15.750Z,47.980000000000004,2023-04-16
+720,Nike Phantom GX Academy Dynamic Fit MG,Multi-Ground Football Boots,Nike,Barely Volt/Barely Grape/Gridiron,84.95,84.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-11T20:04:49.969Z,0.0,2023-04-16
+721,Nike SuperRep Go 3 Next Nature Flyknit,Men's Training Shoes,Nike,College Navy/Black/Bright Crimson/White,99.95,99.95,GB,True,2023-03-23T08:00:00.000Z,2023-04-14T01:14:08.690Z,0.0,2023-04-16
+722,Nike SB Ishod Premium,Skate Shoes,Nike,Baroque Brown/Black/Obsidian,99.95,59.97,GB,True,2023-01-05T08:00:00.000Z,2023-04-11T17:43:16.715Z,39.980000000000004,2023-04-16
+723,The Nike Premier 3 FG,Firm-Ground Football Boot,Nike,Cinnabar/University Red/Sail/Metallic Silver,89.95,89.95,GB,True,2022-08-01T07:00:00.000Z,2023-04-14T13:28:18.738Z,0.0,2023-04-16
+724,Nike Air Max 95,Men's Shoes,Nike Sportswear,Wolf Grey/Cool Grey/White,169.95,169.95,GB,True,2023-04-04T07:00:00.000Z,2023-04-06T06:56:47.951Z,0.0,2023-04-16
+725,Nike Phantom GX Academy MG,Multi-Ground Football Boot,Nike,Barely Volt/Barely Grape/Gridiron,74.95,74.95,GB,True,2023-04-06T07:00:00.000Z,2023-04-11T21:05:33.790Z,0.0,2023-04-16
+726,Zion 2,Men's Basketball Shoes,Jordan,White/Black/Photon Dust/Flash Crimson,109.95,109.95,GB,True,2023-03-30T07:00:00.000Z,2023-04-12T16:06:29.734Z,0.0,2023-04-16
+727,Nike Phantom GX Academy MG By You,Custom Multi-Ground Football Boot,NIKEiD,Multi-Colour/Multi-Colour/Multi-Colour,104.95,104.95,GB,True,2023-01-31T17:00:00.000Z,2023-04-06T06:44:41.236Z,0.0,2023-04-16
+728,Jordan Delta 3 Low,Men's Shoes,Jordan,Sail/Photon Dust/Chile Red/Wolf Grey,124.95,99.97,GB,True,2023-02-01T13:49:00.000Z,2023-04-13T12:25:16.201Z,24.980000000000004,2023-04-16
+729,Nike Air Penny 2 x Stüssy,Men's Shoes,NikeLab,Vivid Green/Black/Black,179.95,179.95,GB,True,2022-12-15T13:41:00.000Z,2023-04-06T06:46:19.385Z,0.0,2023-04-16
+730,Nike Gripknit Phantom GX Elite SG-Pro Anti-Clog Traction,Soft-Ground Football Boot,Nike,Baltic Blue/White/Laser Blue/Pink Blast,244.95,244.95,GB,True,2023-01-16T08:00:00.000Z,2023-04-13T09:42:54.425Z,0.0,2023-04-16
+731,Nike Zoom Vomero 5,Men's Shoes,Nike Sportswear,Velvet Brown/Earth/Anthracite/Gym Red,144.95,144.95,GB,True,2023-04-14T08:30:00.000Z,2023-04-15T11:21:49.131Z,0.0,2023-04-16
+732,Nike Air Max Flyknit Racer,Men's Shoes,Nike Sportswear,Multi-Colour/Racer Blue/White/Black,152.95,107.47,GB,True,2023-01-24T08:00:00.000Z,2023-04-06T06:55:28.566Z,45.47999999999999,2023-04-16
+733,Nike Air Max SYSTM,Men's Shoes,Nike Sportswear,White/Summit White/Black,99.95,99.95,GB,True,2023-03-21T08:00:00.000Z,2023-04-14T23:23:28.183Z,0.0,2023-04-16
